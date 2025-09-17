@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活 on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 21:52:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020年的总结</title>
+      <link>http://localhost:1313/posts/2020%E5%B9%B4%E7%9A%84%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Tue, 05 Jan 2021 21:52:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2020%E5%B9%B4%E7%9A%84%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;如果谁来跟随我，而不舍弃自己的一切、自己的家庭，甚至自己的性命，不能做我的门徒&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
