@@ -1,1 +1,15 @@
 node_modules
+
+# Hugo generated files
+/public/
+/resources/_gen/
+hugo.log
+
+# Editor/OS specific files
+.DS_Store
+Thumbs.db
+
+# Other temporary or sensitive files
+*.bak
+*.swp
+*.tmp
