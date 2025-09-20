@@ -2,14 +2,21 @@
 
 {{ with site.GetPage "/about" }}
 {{ $aboutPages := .Resources.ByType "page" }}
-{{ if gt (len $aboutPages) 0 }}
+<!-- {{ if gt (len $aboutPages) 0 }}
 <li>
-  <div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="{{ T "about" }}">
+<div role="link" tabindex="0" class="inline-flex items-center p-2 cursor-pointer" @click="flip = !flip" title="{{ T "about" }}">
+  <ion-icon name="information-circle"></ion-icon>
+   {{- T "about" -}}
+</div>
+</li>
+{{ end }} -->
+<!-- my customization -->
+<li>
+  <a class="group inline-flex items-center p-2 cursor-pointer" href="{{ "about" | relLangURL }}" title="{{ T "about" }}">
     <ion-icon name="information-circle"></ion-icon>
     {{- T "about" -}}
-  </div>
+  </a>
 </li>
-{{ end }}
 {{ end }}
 
 {{ else if and (eq . "search") (gt (len (where site.Pages "Type" "search")) 0) }}
