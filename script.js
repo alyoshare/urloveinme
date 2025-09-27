@@ -5,7 +5,7 @@ import TurndownService from 'turndown';
 const turndown = new TurndownService();
 
 // Read posts.json
-let posts = JSON.parse(readFileSync('posts.json', 'utf8'));
+const posts = JSON.parse(readFileSync('posts.json', 'utf8'));
 
 // Ensure output directory exists
 const outputDir = 'content/posts';
@@ -41,9 +41,10 @@ async function processSinglePost(post) {
     }
 
     if (existsSync(join(folderPath, 'index.md'))) {
-      console.log(`Post ${slug} already exists. Patching...`);
-      patchPostMarkdown(post);
-      return post;
+      console.log(`Post ${slug} already exists. skipping...`);
+      // console.log(`Post ${slug} already exists. Patching...`);
+      // patchPostMarkdown(post);
+      // return post;
     }
 
     let imageExt = 'jpg'; // Default extension
