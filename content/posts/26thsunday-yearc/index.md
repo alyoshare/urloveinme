@@ -1,6 +1,6 @@
 ---
 title: "天主从来不会忘记任何人 - 丙年26主日Sunday School"
-date: 2025-09-27T12:00:00.000Z
+date: 2025-09-27T02:00:00.000Z
 author: Ida Gao
 cover: image.png
 images:

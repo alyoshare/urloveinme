@@ -1,5 +1,5 @@
 ---
-title: "祂用祂的贫困，让我们变得富有 - 丙年第25主日sunday school"
+title: "祂放下一切寻找我们 - 丙年24主日Sunday School"
 date: 2025-09-12T12:00:00.000Z
 author: Ida Gao
 cover: image.jpg
