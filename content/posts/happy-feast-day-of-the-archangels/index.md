@@ -1,6 +1,6 @@
 ---
 title: "总领天使手中的剑、鱼和花-Happy Feast day of the Archangels"
-date: 2024-09-29T10:59:12.011Z
+date: 2025-09-29T12:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -9,21 +9,11 @@ categories:
   - Uncategorized
 ---
 
-亲爱的孩子们，前面这篇文章
+三位总领天使，他们的手中，分别拿着什么？
 
 <!--more-->
 
-[《三位特别的朋友》](https://www.urloveinme.com/post/archangels)
-
-你们看过了吗？
-
-![ree](https://static.wixstatic.com/media/ec8b63_a957b02511ba4fb3a91d5e46ef3c2498~mv2.jpg)
-
-三位总领天使，
-
-他们的手中，
-
-分别拿着什么？
+亲爱的孩子们，前面这篇文章[《三位特别的朋友》](/posts/archangels)你们看过了吗？
 
 ![ree](https://static.wixstatic.com/media/ec8b63_5c3859499a24401c904788533f6a07d0~mv2.jpg)
 
@@ -167,4 +157,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [遇见圣人](https://www.urloveinme.com/首頁/categories/遇见圣人)
+*   [遇见圣人](https://urlove.wixsite.com/inme/首頁/categories/遇见圣人)

@@ -1,6 +1,6 @@
 ---
 title: "三位特别的朋友"
-date: 2024-09-29T13:10:00.000Z
+date: 2025-09-28T12:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -225,4 +225,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [遇见圣人](https://www.urloveinme.com/首頁/categories/遇见圣人)
+*   [遇见圣人](https://urlove.wixsite.com/inme/首頁/categories/遇见圣人)
