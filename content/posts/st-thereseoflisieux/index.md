@@ -1,6 +1,6 @@
 ---
 title: "遇见小德兰 - St. Thérèse of Lisieux"
-date: 2024-10-01T01:32:46.735Z
+date: 2025-10-01T12:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -10,16 +10,13 @@ categories:
 ---
 
   
+这是一位被称为“小小花朵”的圣女。她只在这个世上生活了24年，如花朵般短暂，如花朵般美好。她15岁进入修院，从未离开过，可是她的灵修芬芳布满了全球，她甚至被称为“传教者的主保”和教会的圣师。
 
 <!--more-->
 
-![ree](https://static.wixstatic.com/media/55472c_ccb3749e7afa4b99821de5c2b47ea788~mv2.jpg)
-
-  
-
-这是一位被称为“小小花朵”的圣女。她只在这个世上生活了24年，如花朵般短暂，如花朵般美好。她15岁进入修院，从未离开过，可是她的灵修芬芳布满了全球，她甚至被称为“传教者的主保”和教会的圣师。
-
 ![ree](https://static.wixstatic.com/media/ec8b63_decc6296e76a43a8af1ad2bbeb20f11d~mv2.jpg)
+
+![ree](https://static.wixstatic.com/media/55472c_ccb3749e7afa4b99821de5c2b47ea788~mv2.jpg)
 
 她名叫德兰.马丁(Marie-Françoise Thérèse Martin)，1873年1月2日诞生于法国一个非常虔诚的天主教家庭，上边有四个姐姐。父母年轻时候都曾经想过修道，只是爸爸Louis Martin最后败在了难读的拉丁文和身体的不适上，妈妈Zelie Guerin也听从修会和神长的建议，去组建天主祝福的家庭。
 
@@ -184,4 +181,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [遇见圣人](https://www.urloveinme.com/首頁/categories/遇见圣人)
+*   [遇见圣人](https://urlove.wixsite.com/inme/首頁/categories/遇见圣人)

@@ -1,6 +1,6 @@
 ---
 title: "每个人都有一个护守天使 - Happy Feast Day of the Guardian Angels"
-date: 2024-10-02T08:57:29.116Z
+date: 2025-10-01T12:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -9,11 +9,6 @@ categories:
   - Uncategorized
 ---
 
-  
-
-<!--more-->
-
-![ree](https://static.wixstatic.com/media/ec8b63_dbaefe7c4bba4dc8b46a5ab2e0ea1bff~mv2.jpg)
 
 亲爱的孩子们，
 
@@ -21,16 +16,17 @@ categories:
 
 天主就为我们安排了一位天使，
 
-陪伴、照顾、引导我们。
+陪伴、照顾、引导我们。  
 
-  
+<!--more-->
 
-![ree](https://static.wixstatic.com/media/ec8b63_4c3d0f2c543047d1a02caedb4fffde12~mv2.jpg)
+![ree](https://static.wixstatic.com/media/ec8b63_dbaefe7c4bba4dc8b46a5ab2e0ea1bff~mv2.jpg)
+
 
 每时每刻，
 
 他都在我们的身边。
-
+  
 他无形无影，
 
 不受时间、空间限制。
