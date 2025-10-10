@@ -1,6 +1,6 @@
 ---
 title: "用感谢表达我们的信德 - 28th Sunday School"
-date: 2022-10-08T13:16:07.136Z
+date: 2025-10-10 T13:16:07.136Z
 author: Ida Gao
 cover: image.png
 images:
