@@ -1,6 +1,6 @@
 ---
 title: "从牧师大佬到红衣枢机，牛津大学以他为传奇 - St John Henry Newman"
-date: 2024-10-09T01:42:36.638Z
+date: 2025-10-09T01:42:36.638Z
 author: Ida Gao
 cover: image.jpg
 images:
