@@ -13,13 +13,8 @@ categories:
 
 <!--more-->
 
-![ree](https://static.wixstatic.com/media/55472c_9ef8aaaa84c14041b3377ff93e28f1bd~mv2.png)
-
-  
-
 今天的福音，给我们讲述的是治愈。看起来，是身体的治愈，却更深层次地触及了我们内心最深处的治愈，从而引发整个生命的改变。这完全而又彻底的治愈，我们称之为“救恩”。
 
-  
 
 ![ree](https://static.wixstatic.com/media/55472c_0e93641eb6e441e8ac63f310a01c096b~mv2.png)
 
@@ -53,7 +48,7 @@ categories:
 
 ![ree](https://static.wixstatic.com/media/55472c_fdf2411e5121434e9f30de8d88b5d3f8~mv2.webp)
 
-**热场游戏“手足相依”：**老师可以准备一副扑克牌，告诉孩子们，今天这个游戏，是让我们实现我们的理想，人类可以视彼此为手足；另外，我们也要体验癞病人他们行走的不便，和必须集体出行互相帮助的情形。首先把孩子们分成几个组，之后，老师从中抽出一个数字，那么，这一群孩子们的手和脚加在一起，可以接触到地面的就是这个数字。比如，5个孩子，如果抽到7，他们就要想办法，有几个人只能单用一只脚；如果抽到13，就需要有人把手也当成脚。然后，一组人，要一起走到教室的十字架那边，找耶稣去治愈。
+**热场游戏“手足相依”：** 老师可以准备一副扑克牌，告诉孩子们，今天这个游戏，是让我们实现我们的理想，人类可以视彼此为手足；另外，我们也要体验癞病人他们行走的不便，和必须集体出行互相帮助的情形。首先把孩子们分成几个组，之后，老师从中抽出一个数字，那么，这一群孩子们的手和脚加在一起，可以接触到地面的就是这个数字。比如，5个孩子，如果抽到7，他们就要想办法，有几个人只能单用一只脚；如果抽到13，就需要有人把手也当成脚。然后，一组人，要一起走到教室的十字架那边，找耶稣去治愈。
 
   
 
@@ -61,85 +56,67 @@ categories:
 
 ######   
 
-**福音前讨论：**我们因为得到很多，经常会忘记，我们生命中拥有的一切都是上主的恩赐。我们可以邀请孩子们静下来，想一想，我们拥有的哪些，是天主给予的礼物呢？老师可以在黑板上把孩子们想到的都写下来，比如健康、家庭、学习的机会、朋友、才能等等。
+**福音前讨论：** 我们因为得到很多，经常会忘记，我们生命中拥有的一切都是上主的恩赐。我们可以邀请孩子们静下来，想一想，我们拥有的哪些，是天主给予的礼物呢？老师可以在黑板上把孩子们想到的都写下来，比如健康、家庭、学习的机会、朋友、才能等等。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_0c3542802a6942febeac22a45ebeb026~mv2.jpeg/v1/fill/w_147,h_179,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_0c3542802a6942febeac22a45ebeb026~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_0c3542802a6942febeac22a45ebeb026~mv2.jpeg)
 
-**福音引导：****今天福音里，耶稣会遇到一群生了很可怜的疾病的人，你们数一数有几个？以及，他们跟耶稣之间，发生了什么故事？**
+**福音引导：** 今天福音里，耶稣会遇到一群生了很可怜的疾病的人，你们数一数有几个？以及，他们跟耶稣之间，发生了什么故事？
 
   
 
 ![ree](https://static.wixstatic.com/media/55472c_2046f0699bf745c2815eb558c0f91a8f~mv2.png)
 
-**福音探讨：**当这个撒玛黎雅的癞病人发现耶稣治愈了自己之后，他做了什么？耶稣如何回复他呢？
+**福音探讨：** 当这个撒玛黎雅的癞病人发现耶稣治愈了自己之后，他做了什么？耶稣如何回复他呢？
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b747ace2b63b42e5b5ed7575ebbac1c9~mv2.jpeg/v1/fill/w_102,h_143,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_b747ace2b63b42e5b5ed7575ebbac1c9~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_b747ace2b63b42e5b5ed7575ebbac1c9~mv2.jpeg)
 
   
 
-**福音简笔画涂色：**孩子们，我们生命中，也一直经历着被耶稣所爱。让我们静默一下，想一想，我们要跟耶稣说什么？
+**福音简笔画涂色：** 孩子们，我们生命中，也一直经历着被耶稣所爱。让我们静默一下，想一想，我们要跟耶稣说什么？
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_e71f0febe41c4cf79a7a098e613400ca~mv2.jpeg/v1/fill/w_125,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e71f0febe41c4cf79a7a098e613400ca~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e71f0febe41c4cf79a7a098e613400ca~mv2.jpeg)
 
-**福音迷宫：**请帮助癞病人找到耶稣。
+**福音迷宫：** 请帮助癞病人找到耶稣。
 
   
 
 ![ree](https://static.wixstatic.com/media/55472c_ebd16391cbba4e86b38898fb01280c3f~mv2.png)
 
-请帮耶稣，
-
-走到癞病人所在的村庄。
+请帮耶稣，走到癞病人所在的村庄。
 
 ![ree](https://static.wixstatic.com/media/55472c_f186c592c60c40aa8ae791796e20c62e~mv2.png)
 
   
 
-**找不同：**根据今天的故事，找出上下两图的8个不同。
+**找不同：** 根据今天的故事，找出上下两图的8个不同。
 
 ![ree](https://static.wixstatic.com/media/55472c_e27fc15640b2494590700172b4c3f5d7~mv2.png)
 
-**福音故事排序：**请根据今天的福音，给下列6幅图重新排顺序。
-
-![](https://static.wixstatic.com/media/55472c_808557c9429a4dbbb3698a3e1064ac60~mv2.png)
+**福音故事排序：** 请根据今天的福音，给下列6幅图重新排顺序。
 
 ![](https://static.wixstatic.com/media/55472c_808557c9429a4dbbb3698a3e1064ac60~mv2.png)
 
 ![](https://static.wixstatic.com/media/55472c_31e9f96e62ce4f6894950b1b1e39bf19~mv2.png)
 
-![](https://static.wixstatic.com/media/55472c_31e9f96e62ce4f6894950b1b1e39bf19~mv2.png)
-
 ![](https://static.wixstatic.com/media/55472c_6d7e90b22ba2414d947903b40c268a81~mv2.png)
-
-![](https://static.wixstatic.com/media/55472c_6d7e90b22ba2414d947903b40c268a81~mv2.png)
-
-![](https://static.wixstatic.com/media/55472c_07166376a81745baa358a79d06e273ac~mv2.png)
 
 ![](https://static.wixstatic.com/media/55472c_07166376a81745baa358a79d06e273ac~mv2.png)
 
 ![](https://static.wixstatic.com/media/55472c_b66809bf4fe443198dd3e82bd97adcab~mv2.png)
 
-![](https://static.wixstatic.com/media/55472c_b66809bf4fe443198dd3e82bd97adcab~mv2.png)
-
 ![](https://static.wixstatic.com/media/55472c_9e47049c6a4344b6903a7b1931406f4e~mv2.png)
-
-![](https://static.wixstatic.com/media/55472c_9e47049c6a4344b6903a7b1931406f4e~mv2.png)
-
-#pro-gallery-c52s3-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-c52s3-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-c52s3-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=c52s3-not-scoped&items=3378\_1224\_1576|3447\_1224\_1576|3321\_1576\_1224|3329\_1224\_1576|3629\_1224\_1576|3283\_1576\_1224&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-c52s3-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
   
 
-**福音手工：**准备10块创可贴来代表癞病人，因为那个时代癞病人都穿着灰土色的衣裳。用爱心，来标识那唯一一位跟耶稣表达感谢的癞病人。
+**福音手工：** 准备10块创可贴来代表癞病人，因为那个时代癞病人都穿着灰土色的衣裳。用爱心，来标识那唯一一位跟耶稣表达感谢的癞病人。
 
-![ree](https://static.wixstatic.com/media/55472c_a56bf76afef146d5b2fdd8ccc25de021~mv2.jpeg/v1/fill/w_101,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a56bf76afef146d5b2fdd8ccc25de021~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_a56bf76afef146d5b2fdd8ccc25de021~mv2.jpeg)
 
   
 
@@ -149,7 +126,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-**福音前思考 ：**孩子们，对我们来说，把生命中拥有的一切当成是理所当然，是很大的诱惑。我们总觉得自己拥有这些，而忘了我们其实是从天主手中领受了这些。请想一想，你们经历了天主的哪些恩赐，一起想至少十样东西/十件事。
+**福音前思考 ：** 孩子们，对我们来说，把生命中拥有的一切当成是理所当然，是很大的诱惑。我们总觉得自己拥有这些，而忘了我们其实是从天主手中领受了这些。请想一想，你们经历了天主的哪些恩赐，一起想至少十样东西/十件事。
 
   
 
@@ -163,21 +140,21 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 ![ree](https://static.wixstatic.com/media/55472c_30541ac5af2c45e5a449fc2d1a87a8ef~mv2.webp)
 
-**信仰探讨：**我们为什么需要说谢谢？谢谢的目的是什么？如果我们不说谢谢，会如何呢？
+**信仰探讨：** 我们为什么需要说谢谢？谢谢的目的是什么？如果我们不说谢谢，会如何呢？
 
 ######   
 
-![ree](https://static.wixstatic.com/media/55472c_af529023acc345a49862490eaa2e6307~mv2.jpeg/v1/fill/w_126,h_156,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_af529023acc345a49862490eaa2e6307~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_af529023acc345a49862490eaa2e6307~mv2.jpeg)
 
   
 
-**迷宫：**请帮助他们从Start走到end来与耶稣相遇。
+**迷宫：** 请帮助他们从Start走到end来与耶稣相遇。
 
-![ree](https://static.wixstatic.com/media/55472c_aebde0ea0c3c44deb5e9c34ee6f065cc~mv2.jpeg/v1/fill/w_102,h_131,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_aebde0ea0c3c44deb5e9c34ee6f065cc~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_aebde0ea0c3c44deb5e9c34ee6f065cc~mv2.jpeg)
 
   
 
-**找不同：**只有一个癞病人回来感谢耶稣，你们可以找出上下两图的14处不同吗？
+**找不同：** 只有一个癞病人回来感谢耶稣，你们可以找出上下两图的14处不同吗？
 
 ![ree](https://static.wixstatic.com/media/55472c_ad013debefb647dfa881c0430b821f8b~mv2.png)
 
@@ -189,35 +166,18 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 ######   
 
-**福音手指剧：**准备一副手套，用创可贴和表情，来代表癞病人治愈前后。就可以演出今天的福音故事了！
+**福音手指剧：** 准备一副手套，用创可贴和表情，来代表癞病人治愈前后。就可以演出今天的福音故事了！
 
-![](https://static.wixstatic.com/media/55472c_f2983bdced964dcaae1d108c074c282a~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30/55472c_f2983bdced964dcaae1d108c074c282a~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_f2983bdced964dcaae1d108c074c282a~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_f2983bdced964dcaae1d108c074c282a~mv2.jpeg/v1/fill/w_323,h_323,fp_0.50_0.50,q_90/55472c_f2983bdced964dcaae1d108c074c282a~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_f440bfc8d1d54d829c01ee19afb23b16~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_f440bfc8d1d54d829c01ee19afb23b16~mv2.jpeg/v1/fill/w_251,h_250,fp_0.50_0.50,q_30,blur_30/55472c_f440bfc8d1d54d829c01ee19afb23b16~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_d30cb739a99b4dda96059cacab78a6c9~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_f440bfc8d1d54d829c01ee19afb23b16~mv2.jpeg/v1/fill/w_324,h_323,fp_0.50_0.50,q_90/55472c_f440bfc8d1d54d829c01ee19afb23b16~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_d30cb739a99b4dda96059cacab78a6c9~mv2.jpeg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30/55472c_d30cb739a99b4dda96059cacab78a6c9~mv2.jpeg)
-
-![](https://static.wixstatic.com/media/55472c_d30cb739a99b4dda96059cacab78a6c9~mv2.jpeg/v1/fill/w_323,h_323,fp_0.50_0.50,q_90/55472c_d30cb739a99b4dda96059cacab78a6c9~mv2.jpeg)
-
-#pro-gallery-6alv0-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-6alv0-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-6alv0-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=6alv0-not-scoped&items=3707\_640\_640|3657\_640\_640|3722\_640\_640&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-6alv0-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
-
-  
-
-**福音手工：****我们可以打印下面的图，折叠，做出下列样子的福音木偶剧。**
-
-  
-
-  
+**福音手工：** 我们可以打印下面的图，折叠，做出下列样子的福音木偶剧。
 
 ![ree](https://static.wixstatic.com/media/55472c_28d91d0b52e04305b688b27e665b0b2b~mv2.png)
-
-  
 
 ![ree](https://static.wixstatic.com/media/55472c_a0638cecb3414125903e858429db21d9~mv2.png)
 
@@ -233,25 +193,13 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 如下图所示。
 
-![](https://static.wixstatic.com/media/55472c_1631c5bf093f40b889e427cdd9a223be~mv2.jpeg/v1/fill/w_499,h_250,al_c,q_30,blur_30/55472c_1631c5bf093f40b889e427cdd9a223be~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_1631c5bf093f40b889e427cdd9a223be~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_1631c5bf093f40b889e427cdd9a223be~mv2.jpeg/v1/fill/w_487,h_244,fp_0.50_0.50,q_90/55472c_1631c5bf093f40b889e427cdd9a223be~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_757c7add1ed443ac859c5cb8b7315739~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_757c7add1ed443ac859c5cb8b7315739~mv2.jpeg/v1/fill/w_499,h_250,al_c,q_30,blur_30/55472c_757c7add1ed443ac859c5cb8b7315739~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_93506fa675fb46baaeab206e8feb18e2~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_757c7add1ed443ac859c5cb8b7315739~mv2.jpeg/v1/fill/w_488,h_244,fp_0.50_0.50,q_90/55472c_757c7add1ed443ac859c5cb8b7315739~mv2.jpeg)
-
-![](https://static.wixstatic.com/media/55472c_93506fa675fb46baaeab206e8feb18e2~mv2.jpeg/v1/fill/w_499,h_250,al_c,q_30,blur_30/55472c_93506fa675fb46baaeab206e8feb18e2~mv2.jpeg)
-
-![](https://static.wixstatic.com/media/55472c_93506fa675fb46baaeab206e8feb18e2~mv2.jpeg/v1/fill/w_599,h_300,fp_0.50_0.50,q_90/55472c_93506fa675fb46baaeab206e8feb18e2~mv2.jpeg)
-
-#pro-gallery-51rpj-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-51rpj-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-51rpj-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|imageMargin:5|isVertical:false|gridStyle:0|galleryLayout:1|numberOfImagesPerRow:0|gallerySizePx:300|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=51rpj-not-scoped&items=3569\_902\_452|3583\_902\_452|3712\_903\_452&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-51rpj-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
-
-  
-
-###### **给青少年**
+###### 给青少年
 
 ######   
 
@@ -259,17 +207,13 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_6e924d05f1644fd29adbc07938991c07~mv2.jpeg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_6e924d05f1644fd29adbc07938991c07~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_6e924d05f1644fd29adbc07938991c07~mv2.jpeg)
 
   
 
-**救恩来自耶稣基督**：今天的圣咏充满力量，“上主宣布了他的救恩，将他的正义显示给万民。他记起了他的仁慈，和对以色列的信实。(Yahweh has made known his saving power, / revealed his saving justice for the nations to see. / Mindful of his faithful love and his constancy to the House of Israel)”。这也是今天几篇读经的主题，救恩是普世性的，它从历史上的选民，经由耶稣基督带给了全世界。这也是保禄宗徒在今天读经二里所写的，“那在基督耶稣内的救恩和永远的光荣”。  
+**救恩来自耶稣基督：** 今天的圣咏充满力量，“上主宣布了他的救恩，将他的正义显示给万民。他记起了他的仁慈，和对以色列的信实。(Yahweh has made known his saving power, / revealed his saving justice for the nations to see. / Mindful of his faithful love and his constancy to the House of Israel)”。这也是今天几篇读经的主题，救恩是普世性的，它从历史上的选民，经由耶稣基督带给了全世界。这也是保禄宗徒在今天读经二里所写的，“那在基督耶稣内的救恩和永远的光荣”。  
 
-![ree](https://static.wixstatic.com/media/55472c_01dc78c985824879b29424cff771d308~mv2.jpeg/v1/fill/w_108,h_81,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_01dc78c985824879b29424cff771d308~mv2.jpeg)
-
-  
-
-  
+![ree](https://static.wixstatic.com/media/55472c_01dc78c985824879b29424cff771d308~mv2.jpeg)
 
   
 
