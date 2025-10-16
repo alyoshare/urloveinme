@@ -1,6 +1,6 @@
 ---
 title: "祈祷，是我们灵魂的呼喊- 29th Sunday school"
-date: 2022-10-15T08:44:46.234Z
+date: 2025-10-15T08:44:46.234Z
 author: Ida Gao
 cover: image.jpeg
 images:
