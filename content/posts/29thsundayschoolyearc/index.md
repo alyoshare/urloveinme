@@ -39,7 +39,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_3b5305d7a30c49fc9760705b9632c26c~mv2.jpeg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_3b5305d7a30c49fc9760705b9632c26c~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_3b5305d7a30c49fc9760705b9632c26c~mv2.jpeg)
 
   
 
@@ -67,59 +67,59 @@ categories:
 
 ######   
 
-![ree](https://static.wixstatic.com/media/55472c_a29ae18962394c9395c5ed06f0c82439~mv2.jpeg/v1/fill/w_90,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a29ae18962394c9395c5ed06f0c82439~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_a29ae18962394c9395c5ed06f0c82439~mv2.jpeg)
 
-**热场游戏：**为了让孩子们体验坚持不懈，可以让他们一起去户外做运动，不论是跑步，还是跳绳，还是仰卧起坐，，当大家都累了，想要放弃的时候，跟他们说，再坚持45秒。这坚持的时间，就是不放弃的时间。也可以请孩子们一起拔河，拔河的时候，即使一鼓作气，也是坚持不懈。
+**热场游戏：** 为了让孩子们体验坚持不懈，可以让他们一起去户外做运动，不论是跑步，还是跳绳，还是仰卧起坐，，当大家都累了，想要放弃的时候，跟他们说，再坚持45秒。这坚持的时间，就是不放弃的时间。也可以请孩子们一起拔河，拔河的时候，即使一鼓作气，也是坚持不懈。
 
 今天读经的主题是“祈祷”。运动过后，可以请孩子们坐成一圈，想一想，祈祷是什么；之后，我们可以用击鼓传花的方式，传一张圣像或任何可以提醒我们进入祈祷的事物。当拿到这样东西的孩子，可以说，我想为谁/为什么事，祈祷。当孩子们说出一个祈祷意向是，老师可以点一根蜡烛，等游戏做完，所有人一起为这些意向，念一遍天主经。通过祈祷，我们把这个世界交到天主手中。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_7e6f3b99c56241ac96c4c7a84182e905~mv2.jpeg/v1/fill/w_68,h_36,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_7e6f3b99c56241ac96c4c7a84182e905~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_7e6f3b99c56241ac96c4c7a84182e905~mv2.jpeg)
 
   
 
-**福音前讨论：**孩子们，说到坚韧不拔、坚持不懈，你们会想到什么呢？是跑步的时候，没有放到终点不放弃，还是拔河的时候，最后坚持住的那一方，可以赢，哪怕只是一小点？生活中，你们有没有过这样的经验，跟爸爸妈妈要一样东西，软磨硬泡，终于到手？这些，都是坚持带来的成果。今天福音里，耶稣也要表扬一位妇人，表扬她的坚持、不放弃。
+**福音前讨论：** 孩子们，说到坚韧不拔、坚持不懈，你们会想到什么呢？是跑步的时候，没有放到终点不放弃，还是拔河的时候，最后坚持住的那一方，可以赢，哪怕只是一小点？生活中，你们有没有过这样的经验，跟爸爸妈妈要一样东西，软磨硬泡，终于到手？这些，都是坚持带来的成果。今天福音里，耶稣也要表扬一位妇人，表扬她的坚持、不放弃。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_7b7070222e7b4767bdd77d8b29387904~mv2.jpeg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_7b7070222e7b4767bdd77d8b29387904~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_7b7070222e7b4767bdd77d8b29387904~mv2.jpeg)
 
   
 
-**福音讨论：**福音中，这个不义的法官起初不愿意理会妇人的请求，因为妇人的坚持，最后法官妥协了。耶稣说我们在祈祷中，也应当有这样的坚持。天主邀请我们通过祈祷，离祂更近。天主总是俯听垂允我们的祈祷。
+**福音讨论：** 福音中，这个不义的法官起初不愿意理会妇人的请求，因为妇人的坚持，最后法官妥协了。耶稣说我们在祈祷中，也应当有这样的坚持。天主邀请我们通过祈祷，离祂更近。天主总是俯听垂允我们的祈祷。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_f827786a422944baac692aa6fd02e7f9~mv2.jpeg/v1/fill/w_125,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_f827786a422944baac692aa6fd02e7f9~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_f827786a422944baac692aa6fd02e7f9~mv2.jpeg)
 
-**福音简笔画：**请根据今天的福音，为这幅图涂色。
+**福音简笔画：** 请根据今天的福音，为这幅图涂色。
 
   
 
 ![ree](https://static.wixstatic.com/media/55472c_410f9f226f4241be8e8b319b1db7fe97~mv2.png)
 
-**福音迷宫：**请从Start开始走到End为妇人找到这个法官。
+**福音迷宫：** 请从Start开始走到End为妇人找到这个法官。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_214e478aa28241fa8cc56b0220869951~mv2.jpeg/v1/fill/w_132,h_171,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_214e478aa28241fa8cc56b0220869951~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_214e478aa28241fa8cc56b0220869951~mv2.jpeg)
 
   
 
-**福音寻宝：**请在下图中，找到今天福音中用到的这些单词：parable, pray, widow, judge, God, lord, dishonest, faith, justice, Earth, Jesus
+**福音寻宝：** 请在下图中，找到今天福音中用到的这些单词：parable, pray, widow, judge, God, lord, dishonest, faith, justice, Earth, Jesus
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_38717af109ae414bb7b9e58a4ee018f6~mv2.jpeg/v1/fill/w_102,h_159,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_38717af109ae414bb7b9e58a4ee018f6~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_38717af109ae414bb7b9e58a4ee018f6~mv2.jpeg)
 
   
 
-**福音手工：**让我们一起做出福音的场景，提醒彼此，祈祷要恒常、坚持。
+**福音手工：** 让我们一起做出福音的场景，提醒彼此，祈祷要恒常、坚持。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_0b89682199174faa93e236030034efc2~mv2.jpeg/v1/fill/w_147,h_107,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_0b89682199174faa93e236030034efc2~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_0b89682199174faa93e236030034efc2~mv2.jpeg)
 
 打印这些并粘贴在一起。
 
