@@ -1,6 +1,6 @@
 ---
 title: "谦卑至下的心声，穿云而上的祷声 - 30th Sunday School"
-date: 2022-10-22T04:03:59.673Z
+date: 2025-10-24T04:03:59.673Z
 author: Ida Gao
 cover: image.png
 images:
