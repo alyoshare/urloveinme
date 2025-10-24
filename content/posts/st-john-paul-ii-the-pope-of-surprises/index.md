@@ -1,6 +1,6 @@
 ---
 title: "他的人生，超级酷 - St John Paul II, the Pope of Surprises"
-date: 2024-10-22T03:42:47.691Z
+date: 2025-10-22T03:42:47.691Z
 author: Ida Gao
 cover: image.png
 images:
