@@ -18,7 +18,7 @@ categories:
 如果你们没有时间，就看一下我们中文配音的这段动画片吧～浓缩了教宗传奇而富有爱的一生。
 
   
-
+{{< video src="https://video.wixstatic.com/video/55472c_5dc31a7e650b47939df6dc29fd46291f/1080p/mp4/file.mp4" type="video/mp4" >}}
   
 
 他本名叫卡罗尔(Karol)，曾是一个运动员，超级喜爱皮筏艇；他也喜欢戏剧与创作，大学时代可是剧团的领衔主演；他更是有着超强的语言天赋，一共学了12门语言。
