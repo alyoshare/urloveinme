@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣周系列
 ---
 
 亲爱的孩子们，圣周二和圣周三的福音里，都提到了福音中一个充满了悲剧色彩的人物——依斯加略人.犹达斯，耶稣十二门徒中的负卖者。因为他， 圣周三甚至还有另一个名字，叫间谍星期三(Spy Wednesday)。

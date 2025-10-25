@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 亲爱的孩子们，说起圣若瑟St Joseph，你脑子里第一个想到的是什么？

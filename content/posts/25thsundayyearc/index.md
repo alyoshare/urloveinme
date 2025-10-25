@@ -1,12 +1,12 @@
 ---
 title: "祂用祂的贫困，让我们变得富有 - 丙年第25主日sunday school"
-date: 2025-09-19T12:00:00.000Z
+date: 2025-09-19T11:24:57.233Z
 author: Ida Gao
 cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 

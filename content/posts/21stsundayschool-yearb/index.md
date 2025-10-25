@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
   

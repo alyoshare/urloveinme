@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，今天，2月2日，是普世基督教会的一个节日哟，你们知道它叫什么吗？

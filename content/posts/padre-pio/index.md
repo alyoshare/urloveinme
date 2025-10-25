@@ -1,12 +1,12 @@
 ---
 title: "他离天主那么近 - Saint Padre Pio"
-date: 2024-09-23T07:07:09.019Z
+date: 2025-09-23T07:07:09.019Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 亲爱的孩子们，不久之前，我们讲过圣人维雅纳神父的故事。他经常在告解亭一坐就是十几个小时，因为慕名来找他告解的人实在太多了。每一个人都通过跟圣人神父的告解，重新修复了与天主的关系，也找回了自己的平安。_(链接请看：_[_《那个考试怎么也考不过的圣人，如今成了法国的骄傲》_](https://www.urloveinme.com/post/st-john-vianney)_)_

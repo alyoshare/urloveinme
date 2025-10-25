@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 当我和你们的爸爸妈妈还是小孩子的时候，我们口中的教宗爷爷，是当时还在世上的若望保禄二世。他出生在100年前的波兰，有着非常传奇的一生，也是一个特别酷的人。

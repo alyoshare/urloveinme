@@ -6,7 +6,7 @@ cover: image.jpeg
 images:
   - image.jpeg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
   

@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 今天(8.8日)恰好是一位圣人的瞻礼，我们特地连线天堂，为孩子们约了这位圣人给我们的公众号做了一次专访。来，请跟大家打个招呼吧。

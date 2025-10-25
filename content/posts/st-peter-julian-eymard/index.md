@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 晚上好啊孩子们~今天是一位叫Fr. Peter Faber的圣人的瞻礼，他是耶稣会的共同创办人，也是St. Ignatius依纳爵在巴黎大学的室友。(重温他们的故事，请点这里 [《依纳爵的生命与改变》](https://www.urloveinme.com/post/st-ignatius-of-loyola))

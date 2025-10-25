@@ -1,12 +1,12 @@
 ---
 title: "这个圣人，差点没被生出来 - 8月31日的San Ramon Nonato"
-date: 2025-08-31T12:00:00.000Z
+date: 2025-08-31T08:52:19.826Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
   

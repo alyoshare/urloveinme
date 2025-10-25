@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 亲爱的孩子们，不久前，我们介绍了圣像(icon)，今天，我们要来说说圣牌(holy medals)。我知道，许多人对于天主教会的圣像和圣牌，都有一些疑惑甚至是误解。

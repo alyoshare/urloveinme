@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，主日学好久不见，你们都好吗？我们回了一趟中国，感受可以写100页！！但是，最重要的感受就是，永远不要忘记我们有天主，我们有信仰，永远不要忽略你们心灵的呼声。

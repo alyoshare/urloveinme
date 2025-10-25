@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 亲爱的孩子们，

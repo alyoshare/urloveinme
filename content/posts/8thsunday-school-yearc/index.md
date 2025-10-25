@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，主日好啊！你们知道吗？常年期的第八主日，可不是每年都有的哦！如果你们有兴趣，去翻翻看过去20年的教会礼仪年历，看看20年来，一共有多少个常年期第八主日？

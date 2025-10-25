@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣周系列
 ---
 
 亲爱的孩子们，圣周的日历翻到了周四。

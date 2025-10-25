@@ -1,12 +1,12 @@
 ---
 title: "坏脾气也能成圣人？- St Jerome"
-date: 2025-09-29T22:00:00.000Z
+date: 2025-09-29T16:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
   

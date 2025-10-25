@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 主说，“在我父的家里，有许多住处，我去，是为你们预备地方。”

@@ -1,12 +1,12 @@
 ---
 title: "总领天使手中的剑、鱼和花-Happy Feast day of the Archangels"
-date: 2025-09-29T12:00:00.000Z
+date: 2025-09-29T10:59:12.011Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 三位总领天使，他们的手中，分别拿着什么？

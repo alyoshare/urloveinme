@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣周系列
 ---
 
 亲爱的孩子们，祝你们圣周六平安！当太阳落下，逾越三日庆典就进入了巅峰——**复活节前夕守夜礼(the Easter Vigil)**。

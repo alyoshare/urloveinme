@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，你们是否听到了圣诞的歌声，大街小巷已经满溢着节日的气氛？而对于我们的教会来说，从明天这个主日开始，我们迈入了教会年历新的一年。Year C，丙年，开始了！

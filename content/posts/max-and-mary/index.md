@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 圣母升天的大日子马上要到了，

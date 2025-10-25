@@ -1,12 +1,12 @@
 ---
 title: "遇见小德兰 - St. Thérèse of Lisieux"
-date: 2025-10-01T12:00:00.000Z
+date: 2025-10-01T01:32:46.735Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
   

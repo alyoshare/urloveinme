@@ -6,7 +6,7 @@ cover: image.jpeg
 images:
   - image.jpeg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，转眼，我们的公众号就要两周岁了。2020年的基督圣体圣血节，我们写了主日学系列的第一篇(_《_[_今天，庆祝的是「圣体圣血节」_](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247483699&idx=1&sn=c18562c5e62b97455254e488adfb99d4&chksm=e8d708a6dfa081b02bd0f7d37045a65a4013ba24a8626e5a44c58861d2a7b6969775bbfac56f&scene=21#wechat_redirect)_》_)。关于这个庆节的典故，大家可以点击查阅哦～

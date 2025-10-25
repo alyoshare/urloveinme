@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 主日平安呀亲爱的孩子们！你们还记得上周的福音吗？耶稣下了船，见到群众守在对岸，好像没有牧者的羊群。然后呢？然后耶稣动了怜悯的心——

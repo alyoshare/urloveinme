@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 孩子们，今天过节的这位圣女，她是人类历史上第一个亲历了远程弥撒的人——所以，她被后世称为电视机主保。

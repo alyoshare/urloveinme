@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 亲爱的孩子们，今天，如果你们要做梦的话，说不定会梦到一位非常美丽的女性。一如167年前，在法国南部一个小镇上，14岁的女孩伯尔纳德所见。

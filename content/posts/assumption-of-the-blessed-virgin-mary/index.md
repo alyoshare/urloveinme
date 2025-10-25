@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 亲爱的孩子们，昨天我们一起，重走了玛利亚的道路([《](https://www.urloveinme.com/post/the-way-of-mary)[如果有时光机，让我们走一走玛利亚的道路](https://www.urloveinme.com/post/the-way-of-mary)[》](https://www.urloveinme.com/post/the-way-of-mary))。看到玛利亚在耶稣的一生中，如何陪伴耶稣、跟随耶稣，直到祂在十字架上交付并完成了在世的使命。

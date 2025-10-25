@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，主日好啊！不知道你们喜不喜欢听故事？

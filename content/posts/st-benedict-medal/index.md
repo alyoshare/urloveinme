@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 昨天我们写了西方隐修主义的鼻祖St Benedict，写完之后俺有点心虚，哈哈。要说隐修的历史，圣本笃，他并不是真正意义上，基督教会隐修的第一人。早他两百多年的圣安当，(不是失物者主保安东尼，是另一位埃及的大安多尼St Anthony of Egypt)，才是隐修生活的先驱。

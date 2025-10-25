@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣诞系列
 ---
 
 今天，我们继续送出圣诞礼物。

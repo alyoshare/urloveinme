@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣诞系列
 ---
 
 走进教堂的时候，马槽还是空的。

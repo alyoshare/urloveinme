@@ -6,7 +6,7 @@ cover: image.jpeg
 images:
   - image.jpeg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 _编者注：这是去年的旧文。里头主日学部分，老师们可以先参考。_

@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 啊啊啊啊，圣依纳爵、大大小小以依纳爵为主保的读者和所有耶稣会的朋友们，瞻礼日喜乐啊～  

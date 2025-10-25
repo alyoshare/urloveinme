@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，弥撒中你们一定会经常听到这句话：“上主求你垂怜，基督求你垂怜，上主求你垂怜”，有些时候我们会用唱的形式：Lord have mercy/Kyrie, eleison. 你们知道这句话出自哪里吗？出自一个坐在耶里哥的城门外讨饭的盲人乞丐之口。

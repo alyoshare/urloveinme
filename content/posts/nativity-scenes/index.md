@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣诞系列
 ---
 
 亲爱的孩子们，石头和布艺的创意灵感，你们喜欢吗？

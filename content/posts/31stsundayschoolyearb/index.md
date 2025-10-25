@@ -6,7 +6,7 @@ cover: image.jpeg
 images:
   - image.jpeg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的大家，当你们沉浸在商家和周遭过“万圣节”的气氛之中时，要记得，万圣节最原本的意义，是诸圣节，诸位天上圣人的节日。

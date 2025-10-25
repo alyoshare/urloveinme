@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 我经常会问孩子们，旧约里的天主，是怎样的？

@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 孩子们，你们还记得吗？在玛窦的瞻礼日那天，我们写到教会用了四种不同的活物来象征四部福音和它们的作者。

@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣诞系列
 ---
 
 亲爱的孩子们，我们听见先知依撒意亚的预言：“上主的神临到我身上，因为上主给我傅了油，派遣我向贫苦的人传报喜信，治疗破碎的心灵……宣布上主施恩的禧年。”

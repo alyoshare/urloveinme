@@ -7,6 +7,18 @@ const turndown = new TurndownService();
 // Read posts.json
 const posts = JSON.parse(readFileSync('posts.json', 'utf8'));
 
+const categoryMap = {
+  "dae82f0b-93d0-48ab-a16e-577134e8d653": "遇见圣人",
+  "7896c536-78e2-4454-9c10-cab3be8993d6": "主日学",
+  "a59d7117-5122-4c95-ab97-34d66b80feb8": "我们是这样生活的",
+  "5eb62be1-9fce-443b-ac74-5acd827dadf9": "圣周系列",
+  "90349018-bcf5-494e-9eea-b645b5e7379a": "圣诞系列",
+  "f76b75b4-d1a3-4b68-bbb7-c6265036530d": "Mother Mary"
+}
+
+const parseCategories = () =>
+  posts.map(p => ({ slug: p.slug, categoryIds: p.categoryIds || [] }));
+
 // Ensure output directory exists
 const outputDir = 'content/posts';
 if (!existsSync(outputDir)) {
@@ -16,13 +28,16 @@ if (!existsSync(outputDir)) {
 const patchPostMarkdown = (post) => {
   let md = readFileSync(join(outputDir, post.slug, 'index.md'), 'utf8');
 
+  // add category
+  md = md.replace('  - Uncategorized', `  - ${categoryMap[post.categoryIds[0]] || 'Uncategorized'}`);
+
   // replace the "date: ..." line data with post.firstPublishedDate
   md = md.replace(/date: .*\n/, `date: ${post.firstPublishedDate || new Date().toISOString()}\n`);
 
   // something else...
   // e.g. update webp images
-  md = md.replace(/https:\/\/static\.wixstatic\.com\/media\/[a-zA-Z0-9_~]+\.(png|jpg|webp)/g, (match) => {
-    const cleanUrl = match.match(/https:\/\/static\.wixstatic\.com\/media\/[a-zA-Z0-9_~]+\.(png|jpg|webp)/);
+  md = md.replace(/https:\/\/static\.wixstatic\.com\/media\/[a-zA-Z0-9_~]+\.(png|jpg|jpeg|webp)/g, (match) => {
+    const cleanUrl = match.match(/https:\/\/static\.wixstatic\.com\/media\/[a-zA-Z0-9_~]+\.(png|jpg|jpeg|webp)/);
     return cleanUrl ? cleanUrl[0] : match;
   });
 
@@ -34,7 +49,7 @@ async function processSinglePost(post) {
   try {
     const slug = post.slug;
     const folderPath = join(outputDir, slug);
-    
+
     // Create folder if it doesn't exist
     if (!existsSync(folderPath)) {
       mkdirSync(folderPath, { recursive: true });
@@ -42,9 +57,9 @@ async function processSinglePost(post) {
 
     if (existsSync(join(folderPath, 'index.md'))) {
       console.log(`Post ${slug} already exists. skipping...`);
-      // console.log(`Post ${slug} already exists. Patching...`);
-      // patchPostMarkdown(post);
-      // return post;
+      console.log(`Post ${slug} already exists. Patching...`);
+      patchPostMarkdown(post);
+      return post;
     }
 
     let imageExt = 'jpg'; // Default extension
@@ -52,7 +67,7 @@ async function processSinglePost(post) {
     if (imageUrl) {
       imageExt = imageUrl.split('.').pop().split('?')[0];
       const imagePath = join(folderPath, `image.${imageExt}`);
-      
+
       try {
         const response = await fetch(imageUrl);
         const imageBlob = await response.blob();
@@ -99,7 +114,7 @@ cover: image.${imageExt}
 images:
   - image.${imageExt}
 categories:
-  - ${post.categories ? post.categories.join('\n  - ') : 'Uncategorized'}
+  - ${categoryMap[post.categoryIds[0]] || 'Uncategorized'}
 ---
 
 ${markdownContent.replace('\n\n', '\n\n<!--more-->\n\n')}
@@ -108,13 +123,13 @@ ${markdownContent.replace('\n\n', '\n\n<!--more-->\n\n')}
     // Write index.md
     writeFileSync(join(folderPath, 'index.md'), frontmatter);
     console.log(`Processed single post: ${slug}`);
-    
+
     // Update the original post in the array
     const index = posts.findIndex(p => p.slug === slug);
     if (index !== -1) {
       posts[index] = post;
     }
-    
+
     return post;
   } catch (err) {
     console.error(`Error processing single post ${post.slug}:`, err.message);

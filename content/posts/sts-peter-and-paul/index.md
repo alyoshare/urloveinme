@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 今天是教会两位非常重要的宗徒**圣伯多禄和圣保禄**的瞻礼。

@@ -6,7 +6,7 @@ cover: image.jpeg
 images:
   - image.jpeg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，许久不见，你们都好吗？寒假开始了吗？农历新年就在眼前，教会的日历也已经翻到了常年期的第二主日。

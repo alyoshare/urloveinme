@@ -1,12 +1,12 @@
 ---
 title: "卖尽家产之后，他从首富变成了首脑-St Gregory"
-date: 2025-09-02T12:00:00.000Z
+date: 2025-09-02T13:14:46.234Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 亲爱的孩子们，不久前，我们写了**St Benedict本笃**的故事。

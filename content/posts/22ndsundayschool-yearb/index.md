@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，我们在主日学的篇幅里，同你们讲了许多跟福音有关的内容。今天的主题，我们想要从平时不太读到的**圣雅各伯宗徒书**入手。

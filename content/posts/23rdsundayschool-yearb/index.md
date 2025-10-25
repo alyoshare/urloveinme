@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，这个星期过得怎么样？在读今天的福音之前，我们一起做个游戏。

@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，又到了一周最重要的一天。今天路加福音带我们听到耶稣讲了一个对比非常显著的比喻，富翁与穷拉匝禄之间的故事。

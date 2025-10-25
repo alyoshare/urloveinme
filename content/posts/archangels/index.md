@@ -1,12 +1,12 @@
 ---
 title: "三位特别的朋友"
-date: 2025-09-28T12:00:00.000Z
+date: 2025-09-28T13:10:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 亲爱的孩子们，9月29日，是我们在天上的好朋友，总领天使们(Archangels)的庆日。如果你们中有人是奉这三位大天使为主保的，请让我们说一声，瞻礼日快乐哦！！❤️💛💙

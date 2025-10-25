@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣诞系列
 ---
 
 **亲爱的孩子们，转眼，又一年过去了。从这个主日开始，教会的礼仪年进入了新的一年，这个主日也标志着乙年将临期的开始。**

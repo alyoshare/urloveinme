@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 亲爱的孩子们，这张充满慈爱的圣母像，你们在什么地方见过？

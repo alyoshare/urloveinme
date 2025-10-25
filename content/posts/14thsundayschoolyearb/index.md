@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，你们的假期开始了吗？

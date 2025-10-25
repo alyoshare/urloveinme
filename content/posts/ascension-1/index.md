@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，耶稣升天瞻礼喜乐！

@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，从旧约到现在，人们一直在询问，天主啊，你是谁？  

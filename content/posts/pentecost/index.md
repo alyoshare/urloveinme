@@ -6,7 +6,7 @@ cover: image.jpeg
 images:
   - image.jpeg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，圣神降临节快乐！你们或许不知道，今天这个盛大的节日，又叫五旬节(Pentecost)。

@@ -1,12 +1,12 @@
 ---
 title: "用感谢表达我们的信德 - 28th Sunday School"
-date: 2025-10-10T13:16:07.136Z
+date: 2025-10-09T13:16:07.136Z
 author: Ida Gao
 cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，明天这个主日的读经，童年的我第一次听修女读时留下的震撼，至今在心间。耶稣治愈了十个癞病人，十人之中，却只有一个回来感谢了耶稣。这是一个撒玛黎雅人，一个外邦人。耶稣对他说，“起来回去吧！你的信德救了你。”  

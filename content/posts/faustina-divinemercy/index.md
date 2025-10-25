@@ -1,12 +1,12 @@
 ---
 title: "圣女傅天娜和《慈悲串经》"
-date: 2024-10-05T14:36:48.461Z
+date: 2025-10-05T14:36:48.461Z
 author: Ida Gao
 cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 孩子们晚上好！看到这篇文章的时候，你们或许已经睡着了。希望你们在护守天使的看顾下，甜甜地睡。

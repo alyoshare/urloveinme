@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，接下来这个主日，我们要庆祝基督圣体圣血节The Solemnity of the Most Holy Body and Blood of Christ！！

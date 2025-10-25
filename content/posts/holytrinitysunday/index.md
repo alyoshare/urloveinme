@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，复活期最后一天，我们庆祝了教会诞生于圣神内的生日。

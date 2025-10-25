@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 那是人人都翘首期盼着默西亚的年代。先知们一早预言过，救世主默西亚，会诞生在达味家族。女孩子们都暗暗希望可以早点结婚，或许，自己会成为救主的母亲。  

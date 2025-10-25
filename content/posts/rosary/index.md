@@ -1,12 +1,12 @@
 ---
 title: "玫瑰经，让我们把整个世界交到耶稣的心里 - how to pray the Rosary"
-date: 2023-10-07T02:38:10.427Z
+date: 2025-10-07T02:38:10.427Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 亲爱的孩子们，玫瑰圣母瞻礼快乐！我们也向以玫瑰圣母为本堂主保的各个堂口说本堂瞻礼快乐！先悄悄说一个秘密哦，每次遇到圣母妈妈的瞻礼，我们都可以跟耶稣求一个特别的恩宠(🤫)，你今天求了吗？还没有的话赶紧，现在还来得及，哈哈！

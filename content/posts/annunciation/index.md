@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - Mother Mary
 ---
 
 亲爱的孩子们，今天是个无比喜乐的日子。教会纪念天使嘉俾厄尔对童贞女玛利亚的拜访，纪念他向玛利亚所传报的喜讯，纪念玛利亚那句人类历史上最最伟大的“我愿意”(the greatest yes ever)。

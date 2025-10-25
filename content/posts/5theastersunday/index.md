@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，我们曾经写过，复活期的每一个主日，都有一个美好的名称。今天，复活期第五主日，又叫Cantete Sunday，高唱新歌的主日。今天的进堂咏与主日的名称呼应：“请你们向上主高唱新歌，因为他行了奇事；他将自己的正义显示给万民。”

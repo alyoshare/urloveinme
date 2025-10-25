@@ -6,7 +6,7 @@ cover: image.webp
 images:
   - image.webp
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，在这个主日，我们看到耶稣进入了西满和安德肋的家里，西满的岳母因为发烧而躺着，耶稣拉着她的手，扶她起来，她的烧立即退了，她就起来服务他们。

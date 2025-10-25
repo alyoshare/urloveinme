@@ -1,12 +1,12 @@
 ---
 title: "他跟太阳称兄道弟 - St Francis of Assisi"
-date: 2025-09-29T22:00:00.000Z
+date: 2025-10-04T01:58:14.621Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 亲爱的孩子们，今天是哪位圣人的节日？

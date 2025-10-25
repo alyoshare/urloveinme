@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，主日好啊～前几天上课的时候，我问班上新来的一个男生，知不知道Lent(四旬期)有几天。他有些疑惑地说，20？30？边上的孩子们都很着急，悄悄地提醒说，"for...forty"(四...四十)，"same as Jesus has fasted"(跟耶稣守斋一样...)。我想， 每周都读我们文章的你，一定是知道四旬期有多少天的对不对？

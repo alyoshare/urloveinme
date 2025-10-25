@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 孩子们，福音读了那么久，你们一定经常听到门徒(disciples)、宗徒(apostles)这两个词。今天的福音里，耶稣派遣了72位门徒出去传教。

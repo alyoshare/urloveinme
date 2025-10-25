@@ -6,7 +6,7 @@ cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，暑假过半，希望你们每一日，都有所爱，有所付出，有所得。

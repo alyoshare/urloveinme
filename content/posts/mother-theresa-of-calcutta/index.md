@@ -1,12 +1,12 @@
 ---
 title: "她是二十世纪最大的礼物"
-date: 2025-09-05T12:00:00.000Z
+date: 2025-09-05T12:35:09.043Z
 author: Ida Gao
 cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 遇见圣人
 ---
 
 今天的故事，是一个跟我们同时代的圣人，她是20世纪最大的礼物。她的爱太过强烈，以至于任何人看到历史，想翻过这一页，都做不到。

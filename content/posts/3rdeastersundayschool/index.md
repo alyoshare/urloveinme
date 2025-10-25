@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，在分享这个主日的读经之前，我想问你们一个特别简单的问题，复活期有多少天？

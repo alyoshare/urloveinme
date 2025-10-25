@@ -1,12 +1,12 @@
 ---
 title: "天主从来不会忘记任何人 - 丙年26主日Sunday School"
-date: 2025-09-27T02:00:00.000Z
+date: 2025-09-26T14:53:25.210Z
 author: Ida Gao
 cover: image.png
 images:
   - image.png
 categories:
-  - Uncategorized
+  - 主日学
 ---
 
 亲爱的孩子们，又到了一周最重要的一天。今天路加福音带我们听到耶稣讲了一个对比非常显著的比喻，富翁与穷拉匝禄之间的故事。

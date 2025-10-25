@@ -6,7 +6,7 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 圣诞系列
 ---
 
 _为了照顾世界各地读者们的网速差异，我们用的都是最小的图片。如果您需要大图，请email联系我们哦！_
