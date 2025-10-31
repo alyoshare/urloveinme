@@ -1,6 +1,6 @@
 ---
 title: "圣人，是谁？"
-date: 2024-10-30T11:37:00.000Z
+date: 2025-10-31T11:37:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
