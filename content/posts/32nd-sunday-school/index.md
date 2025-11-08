@@ -1,6 +1,6 @@
 ---
 title: "如天使般，活在祂的注视中-32nd Sunday School"
-date: 2022-11-05T15:06:21.874Z
+date: 2022-11-07T15:06:21.874Z
 author: Ida Gao
 cover: image.png
 images:
