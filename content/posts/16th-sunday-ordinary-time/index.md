@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，在同你们玩本周的主日学游戏之前，欢迎你们点击这个链接⬇️

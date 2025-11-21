@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 亲爱的孩子们，不久前，我们写了**St Benedict本笃**的故事。

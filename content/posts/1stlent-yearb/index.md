@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，过去这个礼拜三，过年的你们是在大吃大喝吗？哈哈，上个礼拜三可是圣灰星期三(Ash Wednesday)，标志着教会进入了礼仪年度的四旬期。四旬期是什么？请看，去年我们写过的这一篇：[《四旬期，是\_\_\_\_的四十天》](https://www.urloveinme.com/post/1stsundayoflent-yeara)

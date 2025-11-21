@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 今天的篇幅很长，希望你们多一些耐心。

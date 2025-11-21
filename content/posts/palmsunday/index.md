@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 这是我们去年圣枝主日写的文章，旧文重温。

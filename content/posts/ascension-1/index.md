@@ -7,6 +7,7 @@ images:
   - image.png
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，耶稣升天瞻礼喜乐！

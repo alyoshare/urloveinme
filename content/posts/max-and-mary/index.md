@@ -7,6 +7,7 @@ images:
   - image.png
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 圣母升天的大日子马上要到了，

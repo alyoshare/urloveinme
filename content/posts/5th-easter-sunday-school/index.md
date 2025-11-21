@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 我经常会问孩子们，旧约里的天主，是怎样的？

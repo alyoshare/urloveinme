@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 # No content available.

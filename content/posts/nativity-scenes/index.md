@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 圣诞系列
+  - Christmas
 ---
 
 亲爱的孩子们，石头和布艺的创意灵感，你们喜欢吗？

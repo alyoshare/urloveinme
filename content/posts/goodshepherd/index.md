@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，善牧主日快乐！关于这个主日的名称由来，请点击去年的复活期第四主日，我们写的这一篇《[祂为了我们，心甘情愿](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247487568&idx=1&sn=0d4147749a4ccbd9d9144939c872912e&chksm=e8d719c5dfa090d3d3b2fe565990082bc401a67bf2508d22d54af2c66dc04242e582c75bb0b7&scene=21#wechat_redirect)》。

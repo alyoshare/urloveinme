@@ -7,6 +7,7 @@ images:
   - image.png
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，在分享这个主日的读经之前，我想问你们一个特别简单的问题，复活期有多少天？

@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，晚上好。不好意思本周主日学发晚了，因为今天我所在的堂口，做了一个诸圣节的圣人游行。

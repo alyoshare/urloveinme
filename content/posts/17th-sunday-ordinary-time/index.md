@@ -7,6 +7,7 @@ images:
   - image.png
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，在读今天的文章之前，我们想问：你们是不是经常祈祷？你们在哪里祈祷？你们在什么时候祈祷？关于祈祷的文章，我们很早前，写过这一篇——《[祈祷，是我们跟天主的交谈](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247484038&idx=1&sn=c2bcef16c6733447129d625050e0f645&chksm=e8d70b13dfa082051387728efad20a15077f81e0b42c0d78431998a7d709b707509a645cc2ce&scene=21#wechat_redirect)》。

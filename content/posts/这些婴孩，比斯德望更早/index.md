@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 12月28日，叫诸圣婴孩瞻礼，the feast of the Holy Innocents. 为纪念所有被黑落德王残害的无辜孩童。

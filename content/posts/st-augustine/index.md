@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 我们陪着圣莫尼加(St Monica)走完了她的圣善旅程，看着她的眼泪、耐心和祈祷，如何把迷失的熊孩子奥斯定，带回了父的家中。

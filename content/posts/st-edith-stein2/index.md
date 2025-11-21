@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 孩子们，上一篇留给你们的谜题，

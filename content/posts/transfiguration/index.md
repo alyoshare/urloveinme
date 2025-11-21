@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，Happy Feast of the Transfiguration! 今天，耶稣在门徒面前，显了祂的天主性圣容，那道创世之初的光，如今闪耀在耶稣的脸上。

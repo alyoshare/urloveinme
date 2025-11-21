@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 亲爱的孩子们，说起圣若瑟St Joseph，你脑子里第一个想到的是什么？

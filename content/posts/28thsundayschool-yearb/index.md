@@ -7,6 +7,7 @@ images:
   - image.jpeg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
   

@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 圣诞系列
+  - Christmas
 ---
 
 今天，我们继续送出圣诞礼物。

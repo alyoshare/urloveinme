@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 亲爱的孩子们，5月18日，是我们的先教宗圣若望保禄二世的生日。有关他的故事，请看《[他的人生，超级酷 - The Pope of Surprises](https://www.urloveinme.com/post/st-john-paul-ii-the-pope-of-surprises)》。今天为了纪念他，我要同你们分享世界各地的艺术家笔下的John Paul II。在这之前，我要说一段，我跟教宗的小故事。

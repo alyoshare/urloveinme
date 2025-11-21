@@ -7,6 +7,7 @@ images:
   - image.webp
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，你们的假期开始了吗？

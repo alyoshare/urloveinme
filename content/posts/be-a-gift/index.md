@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 圣诞系列
+  - Christmas
 ---
 
 圣诞最大的快乐是什么？

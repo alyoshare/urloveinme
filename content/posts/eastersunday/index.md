@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 复活节快乐，亲爱的孩子们！！整整四十天我们没有唱阿肋路亚了，今天，让我们张开双臂，高唱“阿肋路亚”赞美主。

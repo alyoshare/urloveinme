@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 亲爱的孩子们，去年和前年，我们写了许多的圣人。你们都知道，圣人，是我们在天上的朋友，他们在一生的圣善旅途中，用各种不同的方式，表达他们对上主的爱。在圣人中，尤其初期教会里，有许许多多的殉道者，如昨天我们刚刚写过的St. Sebatian[《](https://www.urloveinme.com/post/stsebastian)[万箭丛中过的小赛同学](https://www.urloveinme.com/post/stsebastian)[》](https://www.urloveinme.com/post/stsebastian)，还有半个世纪前的St. Edith[《](https://www.urloveinme.com/post/st-edith-stein)[祂的手中没有偶然-St. Edith Stein](https://www.urloveinme.com/post/st-edith-stein)[》](https://www.urloveinme.com/post/st-edith-stein)《[她甘愿付出生命-St. Edith Stein(下)](https://www.urloveinme.com/post/st-edith-stein2)》。

@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 圣诞系列
+  - Christmas
 ---
 
 亲爱的孩子们，

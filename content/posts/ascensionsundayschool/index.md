@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 这个主日，许多地方都在继续庆祝the Ascension of the Lord。我们今天的主日学，也会继续以耶稣升天为主题。

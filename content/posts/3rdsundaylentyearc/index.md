@@ -7,6 +7,7 @@ images:
   - image.png
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，主日好啊！不知道你们喜不喜欢听故事？

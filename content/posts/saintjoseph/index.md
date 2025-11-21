@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 今日知识点，为什么St. Joseph的画像里，都有三支百合花？

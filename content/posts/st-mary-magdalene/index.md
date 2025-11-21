@@ -7,6 +7,7 @@ images:
   - image.jpg
 categories:
   - 遇见圣人
+  - Saints
 ---
 
 今天，我们要跟圣名玛利亚.玛达肋纳的朋友说，

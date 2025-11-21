@@ -7,6 +7,7 @@ images:
   - image.png
 categories:
   - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，在圣母月的这个主日，我们读到了若望福音第14章的这几段。当我们听到耶稣说：“爱我的人，必遵守我的话，我父也必爱他，我们要到他那里去，并要在他那里安置我们的住所 (“Whoever loves me will keep my word, and my Father will love him, and we will come to him and make our home with him”)” 时，我们一定会想，有谁彻底爱了耶稣，遵守祂的话，并被天父所爱？  
