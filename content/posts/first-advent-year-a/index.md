@@ -10,7 +10,7 @@ categories:
   - Christmas
 ---
 
-亲爱的孩子们，今天是丙年礼仪年的最后一天。你们都知道，教会的礼仪，三年一轮。每一年，我们既在历史中迈进，也在天主内更新。我们的天主，是永恒不变的，昨天如此、今日亦然，直到永远。明天，随着将临期第一主日的到来，教会开始了新的礼仪年，甲年。**(**说起来，身为华人教友，我们可真幸福呢，我们可以过好几次不同意义的新年，哈哈哈。**)**
+亲爱的孩子们，今天是丙年礼仪年的最后一天。你们都知道，教会的礼仪，三年一轮。每一年，我们既在历史中迈进，也在天主内更新。我们的天主，是永恒不变的，昨天如此、今日亦然，直到永远。明天，随着将临期第一主日的到来，教会开始了新的礼仪年，甲年。 **(说起来，身为华人教友，我们可真幸福呢，我们可以过好几次不同意义的新年，哈哈哈。)**
 
 <!--more-->
 
@@ -118,11 +118,11 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_ff3a2be25cb043cba1bf70f34cc080ee~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_ff3a2be25cb043cba1bf70f34cc080ee~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_ff3a2be25cb043cba1bf70f34cc080ee~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_1e8e907e41ee42a18429f2a579a181c0~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_1e8e907e41ee42a18429f2a579a181c0~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_1e8e907e41ee42a18429f2a579a181c0~mv2.jpeg)
 
   
 
@@ -134,29 +134,24 @@ categories:
 
   
 
-![](https://static.wixstatic.com/media/55472c_d3ec229cbbbe46cb8c49ace392594d59~mv2.jpeg/v1/fill/w_250,h_250,al_c,q_30,blur_30/55472c_d3ec229cbbbe46cb8c49ace392594d59~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_d3ec229cbbbe46cb8c49ace392594d59~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_d3ec229cbbbe46cb8c49ace392594d59~mv2.jpeg/v1/fill/w_400,h_400,fp_0.50_0.50,q_90/55472c_d3ec229cbbbe46cb8c49ace392594d59~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_d3ec229cbbbe46cb8c49ace392594d59~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_53092beca500465882ea5f5d0eb6be51~mv2.jpeg/v1/fill/w_177,h_250,al_c,q_30,blur_30/55472c_53092beca500465882ea5f5d0eb6be51~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_53092beca500465882ea5f5d0eb6be51~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_53092beca500465882ea5f5d0eb6be51~mv2.jpeg/v1/fill/w_283,h_400,fp_0.50_0.50,q_90/55472c_53092beca500465882ea5f5d0eb6be51~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_53092beca500465882ea5f5d0eb6be51~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_44c79d8fc75047848f6a2249b6f16967~mv2.jpeg/v1/fill/w_179,h_250,al_c,q_30,blur_30/55472c_44c79d8fc75047848f6a2249b6f16967~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_44c79d8fc75047848f6a2249b6f16967~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_44c79d8fc75047848f6a2249b6f16967~mv2.jpeg/v1/fill/w_287,h_400,fp_0.50_0.50,q_90/55472c_44c79d8fc75047848f6a2249b6f16967~mv2.jpeg)
-
-#pro-gallery-a5hrn-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-a5hrn-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-a5hrn-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|imageMargin:5|isVertical:false|gridStyle:0|galleryLayout:1|numberOfImagesPerRow:0|gallerySizePx:300|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=a5hrn-not-scoped&items=3724\_1600\_1600|3560\_1810\_2560|3412\_530\_739&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-a5hrn-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
-
+![](https://static.wixstatic.com/media/55472c_44c79d8fc75047848f6a2249b6f16967~mv2.jpeg)
   
 
 不论你们用的是一棵真树，还是墙上的贴画，最重要的是，每一天，我们都可以根据圣经历史的顺序，来翻开人类历史上，那重要的相遇。👇
 
   
 
-[https://www.urloveinme.com/post/叶瑟树jesse-tree全集來了](https://www.urloveinme.com/post/叶瑟树jesse-tree全集來了)
+[https://www.urloveinme.com/posts/叶瑟树jesse-tree全集來了](https://www.urloveinme.com/posts/叶瑟树jesse-tree全集來了)
 
   
 
@@ -164,7 +159,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2b5ac9a478b84a9c93c989c11d137bb3~mv2.jpeg/v1/fill/w_147,h_208,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2b5ac9a478b84a9c93c989c11d137bb3~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2b5ac9a478b84a9c93c989c11d137bb3~mv2.jpeg)
 
   
 
@@ -188,7 +183,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 涂上颜色，粘在瓶盖的两侧，一边是图像，一边是圣经经文。
 
-![ree](https://static.wixstatic.com/media/55472c_7d0bd2f8fa96414cae59c97a88f1810c~mv2.jpeg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_7d0bd2f8fa96414cae59c97a88f1810c~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_7d0bd2f8fa96414cae59c97a88f1810c~mv2.jpeg)
 
 很酷很有意义是不是？
 
@@ -198,23 +193,19 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![](https://static.wixstatic.com/media/55472c_ebbc208937ea4f06a9896a42ce502a7c~mv2.jpeg/v1/fill/w_179,h_250,al_c,q_30,blur_30/55472c_ebbc208937ea4f06a9896a42ce502a7c~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_ebbc208937ea4f06a9896a42ce502a7c~mv2.jpeg)
 
-![](https://static.wixstatic.com/media/55472c_ebbc208937ea4f06a9896a42ce502a7c~mv2.jpeg/v1/fill/w_231,h_323,fp_0.50_0.50,q_90/55472c_ebbc208937ea4f06a9896a42ce502a7c~mv2.jpeg)
-
-![](https://static.wixstatic.com/media/55472c_89745643c0df43e58a7e843a45788359~mv2.png)
+![](https://static.wixstatic.com/media/55472c_ebbc208937ea4f06a9896a42ce502a7c~mv2.jpeg)
 
 ![](https://static.wixstatic.com/media/55472c_89745643c0df43e58a7e843a45788359~mv2.png)
 
-![](https://static.wixstatic.com/media/55472c_4c1091ae54fd484bbbdaae0fc82dbe19~mv2.jpeg/v1/fill/w_242,h_250,al_c,q_30,blur_30/55472c_4c1091ae54fd484bbbdaae0fc82dbe19~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_89745643c0df43e58a7e843a45788359~mv2.png)
 
-![](https://static.wixstatic.com/media/55472c_4c1091ae54fd484bbbdaae0fc82dbe19~mv2.jpeg/v1/fill/w_314,h_323,fp_0.50_0.50,q_90/55472c_4c1091ae54fd484bbbdaae0fc82dbe19~mv2.jpeg)
+![](https://static.wixstatic.com/media/55472c_4c1091ae54fd484bbbdaae0fc82dbe19~mv2.jpeg)
 
-#pro-gallery-6t4oh-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-6t4oh-not-scoped .gallery-item-hover::before { background: transparent !important}
+![](https://static.wixstatic.com/media/55472c_4c1091ae54fd484bbbdaae0fc82dbe19~mv2.jpeg)
 
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-6t4oh-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|imageMargin:5|isVertical:false|gridStyle:0|galleryLayout:1|numberOfImagesPerRow:0|gallerySizePx:300|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=6t4oh-not-scoped&items=3617\_924\_1290|3265\_850\_645|3796\_484\_500&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-6t4oh-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
-  
 
 **寻找救世主**
 
@@ -253,8 +244,6 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
   
 
 ![ree](https://static.wixstatic.com/media/55472c_ee9aa4176b5242b896cb74e25e4e1eb9~mv2.png)
-
-  
 
   
 
