@@ -1,6 +1,6 @@
 ---
 title: "那份希望与期盼 - 甲年将临期第一主日Sunday School"
-date: 2022-11-26T08:28:24.405Z
+date: 2025-11-29T08:28:24.405Z
 author: Ida Gao
 cover: image.jpeg
 images:
