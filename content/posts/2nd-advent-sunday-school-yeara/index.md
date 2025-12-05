@@ -1,6 +1,6 @@
 ---
 title: "那至今回响的旷野呼声 - 甲年将临期第二主日Sunday School"
-date: 2022-12-03T07:54:00.489Z
+date: 2025-12-05T07:54:00.489Z
 author: Ida Gao
 cover: image.jpeg
 images:
@@ -16,7 +16,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_d4cdebd585434f07892953c5df0bb685~mv2.jpeg/v1/fill/w_92,h_52,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_d4cdebd585434f07892953c5df0bb685~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_d4cdebd585434f07892953c5df0bb685~mv2.jpeg)
 
   
 
@@ -66,7 +66,7 @@ categories:
 
   
 
-[https://www.urloveinme.com/post/我们预备祂的到来-丙年将临期第二主日sunday-school](https://www.urloveinme.com/post/我们预备祂的到来-丙年将临期第二主日sunday-school)
+[我们预备祂的到来-丙年将临期第二主日](https://www.urloveinme.com/posts/我们预备祂的到来-丙年将临期第二主日sunday-school)
 
   
 
@@ -76,7 +76,7 @@ categories:
 
   
 
-[https://www.urloveinme.com/post/这是不一样的方济各-st-francis-xavier](https://www.urloveinme.com/post/这是不一样的方济各-st-francis-xavier)
+[这是不一样的方济各](https://www.urloveinme.com/posts/这是不一样的方济各-st-francis-xavier)
 
   
 
@@ -98,15 +98,15 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_d4a212d1ba1b4fb9a59ac7eff4c23a2d~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_d4a212d1ba1b4fb9a59ac7eff4c23a2d~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_d4a212d1ba1b4fb9a59ac7eff4c23a2d~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_ebbf2561310a4d3c9e563e825f2caa53~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_ebbf2561310a4d3c9e563e825f2caa53~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_ebbf2561310a4d3c9e563e825f2caa53~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_93408afb290a48b585d2ea3695b23cc6~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_93408afb290a48b585d2ea3695b23cc6~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_93408afb290a48b585d2ea3695b23cc6~mv2.jpeg)
 
   
 
@@ -118,4 +118,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)
