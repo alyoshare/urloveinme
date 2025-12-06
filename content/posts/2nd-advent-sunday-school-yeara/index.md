@@ -66,7 +66,7 @@ categories:
 
   
 
-[我们预备祂的到来-丙年将临期第二主日](https://www.urloveinme.com/posts/我们预备祂的到来-丙年将临期第二主日sunday-school)
+[我们预备祂的到来-丙年将临期第二主日](https://www.urloveinme.com/posts/advent-week2-yearc)
 
   
 
