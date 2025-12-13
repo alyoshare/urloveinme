@@ -1,6 +1,6 @@
 ---
 title: "在爱内喜乐 - 甲年将临期第三主日Gaudete Sunday School"
-date: 2022-12-10T05:09:41.535Z
+date: 2025-12-13T05:09:41.535Z
 author: Ida Gao
 cover: image.jpg
 images:
