@@ -8,11 +8,13 @@ images:
 categories:
   - 主日学
   - "Sunday School"
+  - 圣诞系列
+  - "Christmas"
 ---
 
 亲爱的读者，我们的圣诞专题统统可以在这个页面看到：
 
-https://urloveinme.com/categories/圣诞系列/
+[https://urloveinme.com/categories/圣诞系列/](https://urloveinme.com/categories/christmas/)
 
 亲爱的孩子们，“你们在主内应当常常喜乐，”，将临期第三主日的进堂咏，来自圣保禄宗徒写给斐理伯城内信友的家书。你们或许不知道，彼时保禄正在监狱中， 为主受苦，可是，这封只有四章的书信，却满溢着信仰的喜乐，那份一想起主内的各位，便满怀喜悦为众人祈祷的喜乐；在主内别无所求的喜乐，那份怀着耶稣的情怀，与祂一同去生活、去爱、去承受苦难并奉献于上主的喜乐；那份被天主超乎想象的平安所守护、知道主快要到来的喜乐_……_
 
@@ -209,4 +211,4 @@ House of Bread
   
 
 *   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列][(https://www.urloveinme.com/首頁/categories/圣诞系列)](https://urloveinme.com/categories/christmas/)
