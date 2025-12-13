@@ -14,9 +14,9 @@ categories:
 
 亲爱的读者，我们的圣诞专题统统可以在这个页面看到：
 
-[https://urloveinme.com/categories/圣诞系列/](https://urloveinme.com/categories/christmas/)
+[圣诞系列](https://urloveinme.com/categories/christmas/)
 
-亲爱的孩子们，“你们在主内应当常常喜乐，”，将临期第三主日的进堂咏，来自圣保禄宗徒写给斐理伯城内信友的家书。你们或许不知道，彼时保禄正在监狱中， 为主受苦，可是，这封只有四章的书信，却满溢着信仰的喜乐，那份一想起主内的各位，便满怀喜悦为众人祈祷的喜乐；在主内别无所求的喜乐，那份怀着耶稣的情怀，与祂一同去生活、去爱、去承受苦难并奉献于上主的喜乐；那份被天主超乎想象的平安所守护、知道主快要到来的喜乐_……_
+亲爱的孩子们，“你们在主内应当常常喜乐，”，将临期第三主日的进堂咏，来自圣保禄宗徒写给斐理伯城内信友的家书。你们或许不知道，彼时保禄正在监狱中， 为主受苦，可是，这封只有四章的书信，却满溢着信仰的喜乐，那份一想起主内的各位，便满怀喜悦为众人祈祷的喜乐；在主内别无所求的喜乐，那份怀着耶稣的情怀，与祂一同去生活、去爱、去承受苦难并奉献于上主的喜乐；那份被天主超乎想象的平安所守护、知道主快要到来的喜乐……
 
 <!--more-->
 
@@ -56,7 +56,7 @@ categories:
 
   
 
-[https://www.urloveinme.com/post/圣诞就在眼前，我们一起雀跃不已-将临期第四主日-圣诞游戏集锦](https://www.urloveinme.com/post/圣诞就在眼前，我们一起雀跃不已-将临期第四主日-圣诞游戏集锦)
+[https://www.urloveinme.com/post/圣诞就在眼前，我们一起雀跃不已-将临期第四主日-圣诞游戏集锦](https://www.urloveinme.com/posts/圣诞就在眼前，我们一起雀跃不已-将临期第四主日-圣诞游戏集锦)
 
   
 
@@ -76,7 +76,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_09741ab45b6f43238c72f1749ef37ded~mv2.jpeg/v1/fill/w_100,h_67,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_09741ab45b6f43238c72f1749ef37ded~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_09741ab45b6f43238c72f1749ef37ded~mv2.jpeg)
 
 创世纪，我们可以用苹果来象征那个跌倒，
 
@@ -84,7 +84,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_6f130748387b4361978500415debc58a~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_6f130748387b4361978500415debc58a~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_6f130748387b4361978500415debc58a~mv2.jpeg)
 
 诺厄方舟，
 
@@ -112,17 +112,17 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5b63154cb2a045258c53d440d65dfbd7~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5b63154cb2a045258c53d440d65dfbd7~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_5b63154cb2a045258c53d440d65dfbd7~mv2.jpeg)
 
 雅各伯的梯子
 
 在圣经的哪里，你们可以找出来吗？
 
-![ree](https://static.wixstatic.com/media/55472c_6be7f553d156430186c4b52af1a5b32b~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_6be7f553d156430186c4b52af1a5b32b~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_6be7f553d156430186c4b52af1a5b32b~mv2.jpeg)
 
 若瑟的彩衣
 
-![ree](https://static.wixstatic.com/media/55472c_9ad1d1beba564d1fabdf118b60f0f96e~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_9ad1d1beba564d1fabdf118b60f0f96e~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_9ad1d1beba564d1fabdf118b60f0f96e~mv2.jpeg)
 
 梅瑟遇见的着火的灌木丛
 
@@ -130,7 +130,7 @@ categories:
 
 裹一层千岛酱就可以啦
 
-![ree](https://static.wixstatic.com/media/55472c_e0c172777af746179f6ed703ed1f9b7b~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e0c172777af746179f6ed703ed1f9b7b~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e0c172777af746179f6ed703ed1f9b7b~mv2.jpeg)
 
   
 
@@ -140,7 +140,7 @@ categories:
 
 你们可以背出天主的十诫吗
 
-![ree](https://static.wixstatic.com/media/55472c_64ef01c389b54e16983cc1a4123153c9~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_64ef01c389b54e16983cc1a4123153c9~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_64ef01c389b54e16983cc1a4123153c9~mv2.jpeg)
 
 约纳先知和鲨鱼
 
@@ -154,7 +154,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_0a82d697920e4a76b4bb45451adc6411~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_0a82d697920e4a76b4bb45451adc6411~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_0a82d697920e4a76b4bb45451adc6411~mv2.jpeg)
 
 达味王的星星
 
@@ -162,7 +162,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_02a87fa5184a45fbaa0c423fb125d856~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_02a87fa5184a45fbaa0c423fb125d856~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_02a87fa5184a45fbaa0c423fb125d856~mv2.jpeg)
 
 白冷城
 
@@ -174,7 +174,7 @@ House of Bread
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_aedbcb1f8d48451c8b9846d58ed3d3a2~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_aedbcb1f8d48451c8b9846d58ed3d3a2~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_aedbcb1f8d48451c8b9846d58ed3d3a2~mv2.jpeg)
 
 若翰的蜂蜜
 
@@ -182,7 +182,7 @@ House of Bread
 
 我们就用蜂蜜来象征他
 
-![ree](https://static.wixstatic.com/media/55472c_e4e8e869e26449508c848d3fe7d27d3f~mv2.jpeg/v1/fill/w_80,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e4e8e869e26449508c848d3fe7d27d3f~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e4e8e869e26449508c848d3fe7d27d3f~mv2.jpeg)
 
 传报喜讯的天使们
 
@@ -198,7 +198,7 @@ House of Bread
 
 下一期，我们会做这个专题
 
-《将临期大对经(**_O Antiphons_**)》
+《将临期大对经( **O Antiphons** )》
 
 记得订阅我们，不要走开哦～
 
@@ -206,9 +206,9 @@ House of Bread
 
 资料来源：
 
-食物灵感 来自https://www.showerofrosesblog.com/2009/12/jesse-tea-for-advent.html
+食物灵感 来自 https://www.showerofrosesblog.com/2009/12/jesse-tea-for-advent.html
 
   
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
-*   [圣诞系列][(https://www.urloveinme.com/首頁/categories/圣诞系列)](https://urloveinme.com/categories/christmas/)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)
