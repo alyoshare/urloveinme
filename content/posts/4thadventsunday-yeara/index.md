@@ -1,6 +1,6 @@
 ---
 title: "天主，与我们同在 - 甲年将临期第四主日 Sunday School"
-date: 2022-12-17T11:19:44.155Z
+date: 2025-12-17T11:19:44.155Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -8,6 +8,8 @@ images:
 categories:
   - 主日学
   - "Sunday School"
+  - 圣诞专题
+  - "Christmas"
 ---
 
 亲爱的孩子们，甲年这一年，我们会经常在玛窦福音中与他笔下的人物相遇。玛窦面对的读者，是犹太人和犹太背景的基督徒们，是以他的笔触总是会注重旧约与新约的延续和传承。旧约指向了耶稣基督的诞生，在耶稣基督身上，旧约的承诺都得到了满全。期望与满全之间的连结，让我们明白是真正的天主的工作，是天主把祂的独生子赐给了我们。  
@@ -64,7 +66,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_658c99bad0974bdbbf2045298f42e251~mv2.jpeg/v1/fill/w_90,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_658c99bad0974bdbbf2045298f42e251~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_658c99bad0974bdbbf2045298f42e251~mv2.jpeg）
 
 **热场游戏：**今天的福音，给我们讲述了大圣若瑟对天主的信赖和忠实。我们可以一起做一个信赖的游戏。让孩子们两两分组，老师准备好手帕，盖住其中一个孩子的眼睛，让另一个孩子带领着走高高低低上上下下的路；走到之后，再交换，让原先蒙住眼睛的孩子，带路。这个游戏，让孩子们体验信赖和被信赖的感觉。
 
@@ -72,7 +74,7 @@ categories:
 
 **信仰分享：**什么是信赖？你们刚刚体验过，信赖是把自己的安全和未来，交托给他人一起照顾。我们信赖父母、老师，信赖他们会告诉我们真理，会教导我们走正确的路。今天的福音里，我们会学习到，大圣若瑟如何信赖天主。你们知道谁是若瑟吗？
 
-![ree](https://static.wixstatic.com/media/55472c_86f30df51cdc45ccbb91cf23e7cbbdad~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_86f30df51cdc45ccbb91cf23e7cbbdad~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_86f30df51cdc45ccbb91cf23e7cbbdad~mv2.jpeg/)
 
 **福音问答：****天主的天使告诉若瑟，玛利亚是因为圣神而成为母亲的。玛利亚的儿子，是天主子，祂将来拯救我们人类脱离罪恶。若瑟醒了之后，做了什么？**
 
@@ -86,7 +88,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_efeaf05a2e5e41be92eb5e02ac340d54~mv2.jpeg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_efeaf05a2e5e41be92eb5e02ac340d54~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_efeaf05a2e5e41be92eb5e02ac340d54~mv2.jpeg/)
 
 **找不同：****请找出上下图的12个不同之处。**
 
