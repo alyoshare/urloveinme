@@ -1,6 +1,6 @@
 ---
 title: "Are you ready for Jesus?"
-date: 2022-12-23T15:02:48.648Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,12 +12,12 @@ categories:
 
 再过24小时，
 
-<!--more-->
-
 我们的救主，
 
 就要为我们而诞生。
 
+
+<!--more-->
   
 
 ![ree](https://static.wixstatic.com/media/55472c_0f3ecfbc2ac94fbdb9ba6b42b7bec455~mv2.jpg)
@@ -86,4 +86,4 @@ categories:
 
   
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

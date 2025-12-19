@@ -1,6 +1,6 @@
 ---
 title: "祂马上要来，石头和布艺都要唱歌"
-date: 2022-12-20T15:34:42.195Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,13 +12,14 @@ categories:
 
 今天，我们继续送出圣诞礼物。
 
-<!--more-->
-
 但是孩子们呐，请记住，
 
 耶稣，
 
 才是最大的礼物。
+
+<!--more-->
+
 
 ![ree](https://static.wixstatic.com/media/ec8b63_190fdfceb0034ca18b73a8c129ab6d66~mv2.jpg)
 
@@ -146,4 +147,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

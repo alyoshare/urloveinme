@@ -198,4 +198,4 @@ categories:
 
   
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)

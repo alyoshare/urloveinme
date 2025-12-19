@@ -412,5 +412,5 @@ We pray for all those who work for God without counting cost.
 
   
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)
 *   [圣周系列](https://www.urloveinme.com/首頁/categories/圣周系列)

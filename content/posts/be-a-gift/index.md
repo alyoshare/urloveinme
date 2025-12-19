@@ -1,6 +1,6 @@
 ---
 title: "成为一份礼物"
-date: 2022-12-25T14:20:28.137Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,15 +12,12 @@ categories:
 
 圣诞最大的快乐是什么？
 
-<!--more-->
-
-  
-
 相信许多人都会大声回答：收礼物。
 
-  
 
 嗯，这个说法没有错。
+
+<!--more-->
 
   
 
@@ -154,4 +151,4 @@ categories:
 
   
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

@@ -66,7 +66,7 @@ categories:
 
 为了方便大家搜寻过去几年我们写的圣诞期各种游戏、活动、手工，
 
-我们开设了[《圣诞专题》](https://www.urloveinme.com/首頁/categories/圣诞系列)。
+我们开设了[《圣诞专题》](https://urloveinme.com/categories/christmas/)。
 
 请点击阅读～
 
@@ -98,5 +98,5 @@ categories:
 
 请转发分享给更多朋友
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)

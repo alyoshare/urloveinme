@@ -1,6 +1,6 @@
 ---
 title: "今夜，祂为我们诞生"
-date: 2024-12-24T15:00:58.716Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,8 +12,6 @@ categories:
 
 走进教堂的时候，马槽还是空的。
 
-<!--more-->
-
 弥撒开始时，
 
 神父从扮演玛利亚的小朋友手中，
@@ -23,6 +21,8 @@ categories:
 轻轻地放入了马槽。
 
 那一刻，泪湿前衫——
+
+<!--more-->
 
 **“天主是如此伟大，祂竟让自己变得如此弱小。”**
 
@@ -88,4 +88,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

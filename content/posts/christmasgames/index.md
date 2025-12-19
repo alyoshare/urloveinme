@@ -1,6 +1,6 @@
 ---
 title: "圣诞倒计时之“游戏篇”"
-date: 2024-12-21T07:44:28.232Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,9 +12,9 @@ categories:
 
   
 
-<!--more-->
-
 **耶稣诞生的故事：请根据图片，讲述耶稣诞生的故事。**
+
+<!--more-->
 
 ![ree](https://static.wixstatic.com/media/55472c_7ca44e439a1949e995f5d9290caf0bcd~mv2.png)
 
@@ -38,7 +38,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_d04243361d9e411cbcb337320abfc4ef~mv2.jpeg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_d04243361d9e411cbcb337320abfc4ef~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_d04243361d9e411cbcb337320abfc4ef~mv2.jpeg)
 
 打印这两张图片，
 
@@ -66,15 +66,14 @@ categories:
 
 这是圣诞故事的哪一段。
 
-![ree](https://static.wixstatic.com/media/55472c_913731b9cb9a4417a5ff8a2891ec3c10~mv2.jpeg/v1/fill/w_149,h_149,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_913731b9cb9a4417a5ff8a2891ec3c10~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_913731b9cb9a4417a5ff8a2891ec3c10~mv2.jpeg)
 
-**圣诞之旅故事棋：**打印这个棋盘，每个小朋友一个小道具代表自己来走棋盘，可以是乐高或任何有差别的道具。从Start开始，扔骰子。走到毛驴那，因为帮助毛驴，你可以直接滑到下一格；遇到天使，读一读天使的佳音，再丢一次骰子；走到礼物那里，因为帮助了贤士，骑着他们的骆驼，你也多走几步去到贤士那一格；遇到棕榈树，就要休息一轮，遇到最小的绵羊，如果没有领先，可以再丢一次骰子。最后，最先走到婴孩耶稣那里的小朋友赢。
+**圣诞之旅故事棋：** 打印这个棋盘，每个小朋友一个小道具代表自己来走棋盘，可以是乐高或任何有差别的道具。从Start开始，扔骰子。走到毛驴那，因为帮助毛驴，你可以直接滑到下一格；遇到天使，读一读天使的佳音，再丢一次骰子；走到礼物那里，因为帮助了贤士，骑着他们的骆驼，你也多走几步去到贤士那一格；遇到棕榈树，就要休息一轮，遇到最小的绵羊，如果没有领先，可以再丢一次骰子。最后，最先走到婴孩耶稣那里的小朋友赢。
 
-  
 
 ![ree](https://static.wixstatic.com/media/55472c_1d087712a3424907a51fc8c1224e0f09~mv2.png)
 
-**圣诞人物之任务：**打印这个棋盘，每个小朋友一个小道具代表自己来走棋盘，可以是乐高或任何有差别的道具，从十字架开始，扔骰子走，可以往左也可以往右。
+**圣诞人物之任务：** 打印这个棋盘，每个小朋友一个小道具代表自己来走棋盘，可以是乐高或任何有差别的道具，从十字架开始，扔骰子走，可以往左也可以往右。
 
   
 
@@ -118,7 +117,7 @@ categories:
 
   
 
-**迷宫：**现在，我们要走一个迷宫合集。你们需要帮助这些圣诞人物，逐步找到她们要去的地方。
+**迷宫：** 现在，我们要走一个迷宫合集。你们需要帮助这些圣诞人物，逐步找到她们要去的地方。
 
   
 
@@ -162,7 +161,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_7af447ee42e540028bc566eaf6414397~mv2.jpeg/v1/fill/w_115,h_115,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_7af447ee42e540028bc566eaf6414397~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_7af447ee42e540028bc566eaf6414397~mv2.jpeg)
 
 侧面剪出这个形状，
 
@@ -174,13 +173,13 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_fe8930ae6d6b4354b4d8ca93bc98b10e~mv2.jpeg/v1/fill/w_115,h_86,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_fe8930ae6d6b4354b4d8ca93bc98b10e~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_fe8930ae6d6b4354b4d8ca93bc98b10e~mv2.jpeg)
 
 **安睡的小耶稣：**这个纸盘子中间的圆盘割开之后，不要全剪掉，留一小块翻上去，贴上毛线做星星的样子。再用棕色毛线编织出耶稣的小床，放上椭圆的耶稣襁褓宝宝，就好啦！
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2f712bbc3d89417dabfe8b2a4c3d9fb5~mv2.jpeg/v1/fill/w_102,h_153,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2f712bbc3d89417dabfe8b2a4c3d9fb5~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2f712bbc3d89417dabfe8b2a4c3d9fb5~mv2.jpeg)
 
   
 
@@ -196,7 +195,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_98c4d332dc7f455b96d1cab1b7a033f1~mv2.jpeg/v1/fill/w_102,h_154,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_98c4d332dc7f455b96d1cab1b7a033f1~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_98c4d332dc7f455b96d1cab1b7a033f1~mv2.jpeg)
 
 热熔胶粘好，
 
@@ -204,13 +203,13 @@ categories:
 
 就是一个可可爱爱的小耶稣了！
 
-![ree](https://static.wixstatic.com/media/55472c_2f063efc422d4bd8a548a84e032cbdc7~mv2.jpeg/v1/fill/w_102,h_154,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2f063efc422d4bd8a548a84e032cbdc7~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2f063efc422d4bd8a548a84e032cbdc7~mv2.jpeg)
 
 **我的耶稣穿着小毛衣：**跟上边一样，我们需要木棍，毛线，黑色的背景纸。
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5097426d499c4f4e853fe49b22b0b3ce~mv2.jpeg/v1/fill/w_108,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5097426d499c4f4e853fe49b22b0b3ce~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_5097426d499c4f4e853fe49b22b0b3ce~mv2.jpeg)
 
 当当当，简易的耶稣，
 
@@ -218,19 +217,19 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_3f6c4a1b027142218043bab048a00816~mv2.jpeg/v1/fill/w_108,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_3f6c4a1b027142218043bab048a00816~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_3f6c4a1b027142218043bab048a00816~mv2.jpeg)
 
 **冰棍摇篮：**小小耶稣，安眠在木棒摇篮中～
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_a5525d0be38947d9a31aadc310931b36~mv2.jpeg/v1/fill/w_108,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a5525d0be38947d9a31aadc310931b36~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_a5525d0be38947d9a31aadc310931b36~mv2.jpeg)
 
 **穿着毛衣的圣家：**如果你们喜欢编织毛衣，哈哈，这个DIY对你来说就是小菜一碟啦～
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b54f81f2b566432589622c80ed9896bf~mv2.jpeg/v1/fill/w_148,h_223,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_b54f81f2b566432589622c80ed9896bf~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_b54f81f2b566432589622c80ed9896bf~mv2.jpeg)
 
 基本原理就是，
 
@@ -244,7 +243,7 @@ categories:
 
 快去挂在圣诞树上吧！
 
-![ree](https://static.wixstatic.com/media/55472c_80f6eda4311b4172a0a70c2488ba09e8~mv2.jpeg/v1/fill/w_148,h_223,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_80f6eda4311b4172a0a70c2488ba09e8~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_80f6eda4311b4172a0a70c2488ba09e8~mv2.jpeg)
 
   
 
@@ -270,7 +269,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_63c8d15761fa443cbfb8aca1595ec094~mv2.jpeg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_63c8d15761fa443cbfb8aca1595ec094~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_63c8d15761fa443cbfb8aca1595ec094~mv2.jpeg)
 
   
 
@@ -290,7 +289,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_a93205f356704cfb9b1986b6c9e5eb44~mv2.jpeg/v1/fill/w_107,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a93205f356704cfb9b1986b6c9e5eb44~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_a93205f356704cfb9b1986b6c9e5eb44~mv2.jpeg)
 
   
 
@@ -298,7 +297,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_0fa6440cbb07408caf6d560f5e658b25~mv2.jpeg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_0fa6440cbb07408caf6d560f5e658b25~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_0fa6440cbb07408caf6d560f5e658b25~mv2.jpeg)
 
   
 
@@ -320,7 +319,7 @@ categories:
 
 **平面版圣诞人物剧**
 
-![ree](https://static.wixstatic.com/media/55472c_2e2781d6d98d4082aa226a82da8aee71~mv2.jpeg/v1/fill/w_108,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2e2781d6d98d4082aa226a82da8aee71~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2e2781d6d98d4082aa226a82da8aee71~mv2.jpeg)
 
 **彩色打印，并剪下各个人物和动物。**
 
@@ -336,7 +335,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_71f56b46db9f45a1a11e891b1577dc0f~mv2.jpeg/v1/fill/w_62,h_88,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_71f56b46db9f45a1a11e891b1577dc0f~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_71f56b46db9f45a1a11e891b1577dc0f~mv2.jpeg)
 
 **木棒圣诞剧：**这个暖暖的圣诞场景👆，适合小朋友们举着小木棍，做成木偶剧。你们只需要彩色打印各个人物，背后贴上木棍。
 
@@ -386,4 +385,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

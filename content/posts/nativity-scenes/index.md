@@ -1,6 +1,6 @@
 ---
 title: "圣诞，不能没有马槽与圣家"
-date: 2024-12-23T14:59:31.385Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,11 +12,11 @@ categories:
 
 亲爱的孩子们，石头和布艺的创意灵感，你们喜欢吗？
 
-<!--more-->
-
 我们看到了不少叫我们wow的“石头记”呢！
 
 谢谢你们的分享！
+
+<!--more-->
 
 ![ree](https://static.wixstatic.com/media/ec8b63_1bd4aa676ab44c20bbb4acaca87d61aa~mv2.jpg)
 
@@ -244,4 +244,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

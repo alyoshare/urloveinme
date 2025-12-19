@@ -244,4 +244,4 @@ CCC 2015. 走向完美的道路是通过十字架。没有牺牲、没有属灵�
 
 We pray for all those who work for God without counting cost.
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)

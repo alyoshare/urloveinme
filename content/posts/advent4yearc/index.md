@@ -1,6 +1,6 @@
 ---
 title: "圣诞就在眼前，我们一起雀跃不已-将临期第四主日 (圣诞游戏集锦)"
-date: 2024-12-20T07:52:00.000Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -10,13 +10,12 @@ categories:
   - Christmas
 ---
 
-_为了照顾世界各地读者们的网速差异，我们用的都是最小的图片。如果您需要大图，请email联系我们哦！_
-
-<!--more-->
 
   
 
 亲爱的孩子们，在燃点一根根蜡烛之后，在步过每一日的圣经选读和给叶瑟树挂上一个个救恩的标记之间，我们已经走到了将临期的第四个主日。圣诞，就在眼前了！你们给耶稣准备了怎样的礼物？是不是已经用你们爱德的行动，填满了将临期的日历呢？这个主日，我们大家准备了许许多多的圣诞游戏和各种活动——材料多到，我们接下来几天，都得源源不断地发布文章，不要错过哦～
+
+<!--more-->
 
 ![ree](https://static.wixstatic.com/media/55472c_2305389aabde42768ea1a4725c3b296c~mv2.jpg)
 
@@ -486,4 +485,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

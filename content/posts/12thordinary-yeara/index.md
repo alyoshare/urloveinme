@@ -174,10 +174,6 @@ categories:
 
 ![](https://static.wixstatic.com/media/55472c_0965f4d7f7b244649e17399f71485fe9~mv2.jpg)
 
-#pro-gallery-30p86-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-30p86-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-30p86-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=30p86-not-scoped&items=3480\_1000\_667|3408\_1000\_667|3317\_1000\_667&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-30p86-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
-
 孩子们可以装饰属于自己的小鸟背景
 
   
@@ -193,10 +189,6 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 ![](https://static.wixstatic.com/media/55472c_292d0c70779144d7abb2a1911f41d02b~mv2.jpg)
 
 ![](https://static.wixstatic.com/media/55472c_292d0c70779144d7abb2a1911f41d02b~mv2.jpg)
-
-#pro-gallery-andtn-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-andtn-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-andtn-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=andtn-not-scoped&items=3522\_1000\_667|3486\_1000\_667|3352\_1000\_1400&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-andtn-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
   
 
@@ -218,4 +210,4 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 We pray for all those who work for God without counting cost.
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)

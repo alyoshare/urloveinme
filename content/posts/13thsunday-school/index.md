@@ -200,4 +200,4 @@ categories:
 
 分享给更多的朋友吧！
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)

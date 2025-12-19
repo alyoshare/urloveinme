@@ -290,5 +290,5 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

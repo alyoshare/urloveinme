@@ -1,6 +1,6 @@
 ---
 title: "属于Baby Jesus的圣诞 - 涂色与美食专题"
-date: 2024-12-18T15:40:42.218Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -22,7 +22,7 @@ categories:
 
 将临期的四根蜡烛，分别是象征希望的先知蜡烛、象征和平的白冷蜡烛、象征喜乐的牧羊人蜡烛与象征仁爱的天使蜡烛。今天，我们燃点了第四根蜡烛，我们也终于在希望、和平、喜乐与仁爱中，看到了耶稣降诞的曙光。
 
-![ree](https://static.wixstatic.com/media/55472c_e284958d923f41b3a623976bb373d58e~mv2.jpeg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e284958d923f41b3a623976bb373d58e~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e284958d923f41b3a623976bb373d58e~mv2.jpeg)
 
 普世欢腾，让我们在每一天的爱德行为中，等待耶稣！
 
@@ -50,7 +50,7 @@ categories:
 
 就可以啦～
 
-![ree](https://static.wixstatic.com/media/55472c_252d6cfaa61840c1b4a5034caa3204ca~mv2.jpeg/v1/fill/w_115,h_86,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_252d6cfaa61840c1b4a5034caa3204ca~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_252d6cfaa61840c1b4a5034caa3204ca~mv2.jpeg)
 
 从遥远的东方，
 
@@ -64,7 +64,7 @@ categories:
 
 和作弊一样的骆驼饼干！
 
-![ree](https://static.wixstatic.com/media/55472c_54f0b6b626514d4ab89b408158f02539~mv2.jpeg/v1/fill/w_115,h_86,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_54f0b6b626514d4ab89b408158f02539~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_54f0b6b626514d4ab89b408158f02539~mv2.jpeg)
 
 静谧的夜空下，
 
@@ -78,7 +78,7 @@ categories:
 
 拼出平安夜的美好画面。
 
-![ree](https://static.wixstatic.com/media/55472c_ab91a4c9b27346a4b055ce68a2aabf09~mv2.jpeg/v1/fill/w_115,h_86,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_ab91a4c9b27346a4b055ce68a2aabf09~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_ab91a4c9b27346a4b055ce68a2aabf09~mv2.jpeg)
 
 如果你们家没有深色盘子，
 
@@ -108,7 +108,7 @@ categories:
 
 是两个颜色的生菜，😂
 
-![ree](https://static.wixstatic.com/media/55472c_76bcdcca3f53482caef379079c9fdf27~mv2.jpeg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_76bcdcca3f53482caef379079c9fdf27~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_76bcdcca3f53482caef379079c9fdf27~mv2.jpeg)
 
 下边这个摆盘的作者，
 
@@ -178,7 +178,7 @@ categories:
 
 ![ree](https://static.wixstatic.com/media/55472c_6a20631afb394f79aea882765704b7e0~mv2.jpg)
 
-![ree](https://static.wixstatic.com/media/55472c_ee5f6dc0418c4672899989f530e53b44~mv2.gif/v1/fill/w_135,h_170,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_ee5f6dc0418c4672899989f530e53b44~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_ee5f6dc0418c4672899989f530e53b44~mv2.gif)
 
 ![ree](https://static.wixstatic.com/media/55472c_318592c5ec794fb9964591639aae9bb8~mv2.jpg)
 
@@ -218,4 +218,4 @@ We pray for all those who work for God without counting cost.
 
 **👉并分享给更多你爱的人们**
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

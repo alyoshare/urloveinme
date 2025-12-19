@@ -140,4 +140,4 @@ categories:
 
 [《将临期游戏集锦》](https://www.urloveinme.com/post/first-advent-year-a)
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)

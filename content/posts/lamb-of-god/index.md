@@ -227,4 +227,4 @@ lamb of God天主的羔羊
 
 **原创不易，请分享给更多你爱的人们**
 
-*   [主日学](https://www.urloveinme.com/首頁/categories/主日学)
+*   [主日学](https://urloveinme.com/categories/sunday-school/)

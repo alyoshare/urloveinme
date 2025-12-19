@@ -1,6 +1,6 @@
 ---
 title: "圣诞专题 - 祂有哪些称谓？"
-date: 2024-12-22T14:38:26.885Z
+date: 2025-12-15T09:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -12,9 +12,9 @@ categories:
 
 亲爱的孩子们，
 
-<!--more-->
-
 还有三天，耶稣就要诞生了。
+
+<!--more-->
 
 ![ree](https://static.wixstatic.com/media/ec8b63_763d86608e6840529aca563df41dc518~mv2.jpg)
 
@@ -70,4 +70,4 @@ We pray for all those who work for God without counting cost.
 
   
 
-*   [圣诞系列](https://www.urloveinme.com/首頁/categories/圣诞系列)
+*   [圣诞系列](https://urloveinme.com/categories/christmas/)
