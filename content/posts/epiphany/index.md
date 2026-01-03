@@ -1,6 +1,6 @@
 ---
 title: "主显节快乐 - Happy Epiphany!"
-date: 2025-01-02T16:10:42.414Z
+date: 2026-01-02T16:10:42.414Z
 author: Ida Gao
 cover: image.jpg
 images:
