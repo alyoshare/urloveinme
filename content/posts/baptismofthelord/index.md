@@ -1,6 +1,6 @@
 ---
 title: "圣洗，是又一次主显 - 丙年常年期第一主日Sunday School"
-date: 2025-01-10T03:10:00.363Z
+date: 2026-01-09T03:10:00.363Z
 author: Ida Gao
 cover: image.jpg
 images:
