@@ -26,7 +26,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5b4cf98f1ff544268e5df12e911780e1~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_5b4cf98f1ff544268e5df12e911780e1~mv2.jpeg)
 
   
 
@@ -34,7 +34,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_1156550ffac34b24a8a1541fd4acd003~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_1156550ffac34b24a8a1541fd4acd003~mv2.jpeg)
 
   
 
@@ -50,7 +50,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2faabcc7d4ff4bf684e7535831753700~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_2faabcc7d4ff4bf684e7535831753700~mv2.jpeg)
 
   
 
@@ -62,7 +62,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b335ee0e4b20455f84fa034186903ed9~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_b335ee0e4b20455f84fa034186903ed9~mv2.jpeg)
 
   
 
@@ -78,7 +78,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2acebfac1efe46c8997c403e7d34e661~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_2acebfac1efe46c8997c403e7d34e661~mv2.jpeg)
 
   
 
@@ -106,7 +106,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_9d46a0f54acd48319cb55edd77add29b~mv2.gif/v1/fill/w_140,h_182,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_9d46a0f54acd48319cb55edd77add29b~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_9d46a0f54acd48319cb55edd77add29b~mv2.gif)
 
 耶稣基督，天主的羔羊，祂担负了我们的痛苦，免除了我们的罪。我们可以怎样生活，来反射出祂的光芒和爱？
 
@@ -118,7 +118,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_f03af20ed18945cc9ae34d7cc41d430a~mv2.jpeg/v1/fill/w_131,h_170,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_f03af20ed18945cc9ae34d7cc41d430a~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_f03af20ed18945cc9ae34d7cc41d430a~mv2.jpeg)
 
   
 
@@ -126,7 +126,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_0c001e6519234a47b9c85f9d4a7c0765~mv2.jpeg/v1/fill/w_147,h_221,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_0c001e6519234a47b9c85f9d4a7c0765~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_0c001e6519234a47b9c85f9d4a7c0765~mv2.jpeg)
 
   
 
@@ -144,7 +144,7 @@ categories:
 
 看，天主的羔羊
 
-![ree](https://static.wixstatic.com/media/55472c_1bfda961d1d94ea7a4963a7e34895674~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_1bfda961d1d94ea7a4963a7e34895674~mv2.jpeg)
 
 提前裁剪好羊头和羊角，
 
@@ -154,7 +154,7 @@ categories:
 
 装饰自己的天主羔羊
 
-![ree](https://static.wixstatic.com/media/55472c_e8a950daf59643d4b855bc040bdd0eb6~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_e8a950daf59643d4b855bc040bdd0eb6~mv2.jpeg)
 
 年龄更小的小朋友，
 
@@ -162,15 +162,15 @@ categories:
 
 让他们把棉花沾在羊身上
 
-![ree](https://static.wixstatic.com/media/55472c_5f15513eb5784904b9955ff1db2d0fc7~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_5f15513eb5784904b9955ff1db2d0fc7~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_4e2a44ecaab841e0932da91125bcf5df~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_4e2a44ecaab841e0932da91125bcf5df~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b7d03784b4f0448c8081ae3a9b608992~mv2.jpeg/)
+![ree](https://static.wixstatic.com/media/55472c_b7d03784b4f0448c8081ae3a9b608992~mv2.jpeg)
 
 你们也可以打印这张图
 
@@ -202,7 +202,7 @@ lamb of God天主的羔羊
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_9cd250bec624492d82364e924bbfd16e~mv2.jpeg/v1/fill/w_80,h_79,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_9cd250bec624492d82364e924bbfd16e~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_9cd250bec624492d82364e924bbfd16e~mv2.jpeg)
 
   
 
@@ -214,7 +214,7 @@ lamb of God天主的羔羊
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_c613c03afc3a4d01ab62dd50be8f07a8~mv2.jpeg/v1/fill/w_88,h_68,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_c613c03afc3a4d01ab62dd50be8f07a8~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_c613c03afc3a4d01ab62dd50be8f07a8~mv2.jpeg)
 
   
 
