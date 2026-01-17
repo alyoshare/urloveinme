@@ -16,7 +16,7 @@ categories:
 
   
 
-上个主日，我看到许多地方的教会在庆祝主显节，也有一些地区在庆祝主的受洗。我们重新发表了两年前主受洗节我们在公众号上发表过的分享《祂为我们浸入水底》([https://www.urloveinme.com/post/baptism-of-the-lord](https://www.urloveinme.com/post/baptism-of-the-lord))，希望跟你们重温这个被天主爱着的时刻。
+上个主日，我们庆祝主的受洗。我们重新发表了两年前主受洗节我们在公众号上发表过的分享《祂为我们浸入水底》([https://www.urloveinme.com/post/baptism-of-the-lord](https://www.urloveinme.com/post/baptism-of-the-lord))，希望跟你们重温这个被天主爱着的时刻。
 
 ![ree](https://static.wixstatic.com/media/55472c_1921e230664b47ffa9c77e8996b956d8~mv2.jpg)
 
