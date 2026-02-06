@@ -1,6 +1,6 @@
 ---
 title: "这充满希望的相遇"
-date: 2022-02-02T14:47:19.234Z
+date: 2026-02-02T14:47:19.234Z
 author: Ida Gao
 cover: image.jpg
 images:
