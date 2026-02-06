@@ -1,6 +1,6 @@
 ---
 title: "祂是世界的光- 献主节Sunday School"
-date: 2025-02-01T07:10:25.964Z
+date: 2026-02-01T07:10:25.964Z
 author: Ida Gao
 cover: image.webp
 images:
