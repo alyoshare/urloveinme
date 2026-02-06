@@ -1,6 +1,6 @@
 ---
 title: "如何真的有福"
-date: 2023-01-27T16:05:23.013Z
+date: 2026-01-27T16:05:23.013Z
 author: Ida Gao
 cover: image.jpg
 images:
