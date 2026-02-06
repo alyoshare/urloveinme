@@ -1,6 +1,6 @@
 ---
 title: "地上的盐，世上的光 - 甲年常年期第5主日 Sunday School"
-date: 2023-02-04T07:37:19.229Z
+date: 2026-02-04T07:37:19.229Z
 author: Ida Gao
 cover: image.png
 images:
