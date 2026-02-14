@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 ---
 
-下午好亲爱的孩子们，2月11日是露德圣母的瞻礼日，也是世界病患日。当你看到这篇文章的时候，请闭上眼睛，默默地为世上所有生病的人、心灵和身体受到病痛折磨的人念一遍天主经一遍圣母经，把他们身体的医治和心灵所需要的安慰交托给天主。有关露德圣母的介绍，请看这篇文章《[她带来治愈》](https://www.urloveinme.com/post/our-lady-of-lourdes)。
+下午好亲爱的孩子们，2月11日是露德圣母的瞻礼日，也是世界病患日。当你看到这篇文章的时候，请闭上眼睛，默默地为世上所有生病的人、心灵和身体受到病痛折磨的人念一遍天主经一遍圣母经，把他们身体的医治和心灵所需要的安慰交托给天主。有关露德圣母的介绍，请看这篇文章《[她带来治愈》]([https://www.urloveinme.com/post/our-lady-of-lourdes](https://urloveinme.com/posts/our-lady-of-lourdes/))。
 
 <!--more-->
 
