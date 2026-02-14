@@ -1,6 +1,6 @@
 ---
 title: "她帶來治癒"
-date: 2025-02-10T18:37:21.951Z
+date: 2026-02-10T18:37:21.951Z
 author: Ida Gao
 cover: image.jpg
 images:
