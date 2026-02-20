@@ -1,7 +1,7 @@
 ---
 title: "Lent - 这是40天的节庆"
-date: 2022-03-05T12:54:36.261Z
-author: Ida Gao
+date: 2026-02-16T12:54:36.261Z
+author: Benedict 16
 cover: image.jpg
 images:
   - image.jpg
