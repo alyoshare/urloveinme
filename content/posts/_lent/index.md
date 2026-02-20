@@ -1,6 +1,6 @@
 ---
-title: "四旬期，是 _____ 的40天"
-date: 2025-03-04T01:16:24.103Z
+title: "跟孩子们一起，四旬期，是 _____ 的40天"
+date: 2026-02-17T01:16:24.103Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -86,7 +86,7 @@ categories:
 
 **本周主日学**
 
-![ree](https://static.wixstatic.com/media/55472c_fbd2ab47b33e491cb1ebd64fab83ca00~mv2.webp/v1/fill/w_130,h_97,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_fbd2ab47b33e491cb1ebd64fab83ca00~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_fbd2ab47b33e491cb1ebd64fab83ca00~mv2.webp)
 
   
 
@@ -278,7 +278,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2fcc746a9828416994432cc4cb708ad0~mv2.webp/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2fcc746a9828416994432cc4cb708ad0~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_2fcc746a9828416994432cc4cb708ad0~mv2.webp/)
 
   
 
