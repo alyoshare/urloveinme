@@ -1,6 +1,6 @@
 ---
 title: "圣容，彰显着祂真实的身份 - 四旬期第二主日Sunday School"
-date: 2025-03-15T04:37:00.000Z
+date: 2026-02-26T04:37:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
