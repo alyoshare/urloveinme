@@ -1,6 +1,6 @@
 ---
 title: "祂为和解而来"
-date: 2026-03-27T02:41:22.191Z
+date: 2026-03-26T02:41:22.191Z
 author: Ida Gao
 cover: image.jpg
 images:
