@@ -1,6 +1,6 @@
 ---
 title: "祂的伤口，是爱的记号"
-date: 2022-04-23T08:38:11.257Z
+date: 2026-04-9T08:38:11.257Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -24,7 +24,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_722c6fb55d49453fa421addaeeacac5d~mv2.jpeg/v1/fill/w_120,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_722c6fb55d49453fa421addaeeacac5d~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_722c6fb55d49453fa421addaeeacac5d~mv2.jpeg)
 
   
 
@@ -98,7 +98,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5ab71d258fac4fa58e01f9219146059d~mv2.jpeg/v1/fill/w_143,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5ab71d258fac4fa58e01f9219146059d~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_5ab71d258fac4fa58e01f9219146059d~mv2.jpeg)
 
   
 
@@ -108,13 +108,13 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_56701b2582e446c588146de66a428713~mv2.jpeg/v1/fill/w_125,h_174,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_56701b2582e446c588146de66a428713~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_56701b2582e446c588146de66a428713~mv2.jpeg)
 
   
 
-多默宗徒瞻礼日的时候，我们做过一个专题《[怀疑者多默的故事From Doubting Thomas to Believing Thomas](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247483933&idx=1&sn=38a393be8515116a75754661bbbea470&chksm=e8d70b88dfa0829e0ba7761e4c2eb30f0617081b11e6c55a7b67f8bcb58bcf1814abd344b5d1&scene=21#wechat_redirect)》，可以参考这里的视频，让孩子们轮流讲述今天的福音故事。  
+多默宗徒瞻礼日的时候，我们做过一个专题怀疑者多默的故事，不妨让孩子们轮流讲述今天的福音故事。  
 
-![ree](https://static.wixstatic.com/media/55472c_a06e283dd88b45bd86fce3f04e2bb62f~mv2.jpeg/v1/fill/w_120,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a06e283dd88b45bd86fce3f04e2bb62f~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_a06e283dd88b45bd86fce3f04e2bb62f~mv2.jpeg)
 
   
 
@@ -172,7 +172,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_086fd88d37e246f088cea2db3c0ee432~mv2.jpeg/v1/fill/w_64,h_70,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_086fd88d37e246f088cea2db3c0ee432~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_086fd88d37e246f088cea2db3c0ee432~mv2.jpeg)
 
   
 
@@ -248,7 +248,7 @@ categories:
 
   
 
-**教会礼仪：**上一期的主日学(《[祂为我们带来白天](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247487400&idx=1&sn=482aae10710bbf62edf0d8d9ff651706&chksm=e8d7063ddfa08f2ba618bf2a6d24c8cb761bf3bf3d577a26bb18aee75af5bb51ab611d28ea7e&scene=21#wechat_redirect)》)的题目，你们做出来了吗？今天这个复活期的第二主日，它可有什么特别的名称呢？对，普世教会称之为**“救主慈悲主日”(Divine Mercy Sunday)**。这一天，教会庆祝天主对人类的宽恕和祂无尽的慈悲。(有关这个主日的庆祝和典故，我们下边会有专题。）
+**教会礼仪：**上一期的主日学(《[祂为我们带来白天]的题目，你们做出来了吗？今天这个复活期的第二主日，它可有什么特别的名称呢？对，普世教会称之为**“救主慈悲主日”(Divine Mercy Sunday)**。这一天，教会庆祝天主对人类的宽恕和祂无尽的慈悲。(有关这个主日的庆祝和典故，我们下边会有专题。）
 
 同时，复活期第二主日，也被称为「卸白衣主日」（Dominica in Albis）。「这主日为了要突显那些在复活节守夜仪式接受洗礼的信徒。教会当晚给予每位新领洗者一件白色的长袍，称为alba，以指出天主子女的新尊严。即使在今天领洗的小婴儿，也会收到一件细小象征性的白色罩巾，而成年人穿上一件白衣。在过去，白色的长袍需要穿一个星期，直到第二个主日卸除(in albis \[deponenda\])，所以被称为「卸白衣主日」。新领洗的教友，开始了他们在基督内和在教会内的新生活。
 
@@ -260,7 +260,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_a520f420262d4669963e8810a02f8186~mv2.jpeg/v1/fill/w_102,h_76,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a520f420262d4669963e8810a02f8186~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_a520f420262d4669963e8810a02f8186~mv2.jpeg)
 
   
 
@@ -268,7 +268,7 @@ categories:
 
 前面我们提到了信仰动摇的时刻，孩子们，我们都是软弱的人，即使是宗徒之长伯多禄，也是如此。但是，他对耶稣满怀热枕，满怀信赖，满怀炽热之爱。正是这份爱与信德，带来了基督的治愈。  
 
-![ree](https://static.wixstatic.com/media/55472c_44e1133abdb54a7584e0244d654b5242~mv2.jpeg/v1/fill/w_120,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_44e1133abdb54a7584e0244d654b5242~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_44e1133abdb54a7584e0244d654b5242~mv2.jpeg)
 
   
 
@@ -336,7 +336,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_980ae56c0a194169a44cb68cc77162a4~mv2.jpeg/v1/fill/w_78,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_980ae56c0a194169a44cb68cc77162a4~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_980ae56c0a194169a44cb68cc77162a4~mv2.jpeg)
 
   
 
@@ -356,7 +356,7 @@ categories:
 
 有关圣傅天娜修女的故事，
 
-我们写过这一篇：《[《慈悲串经》是什么](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247490177&idx=2&sn=680b4d8c2846cebcd25fb6cec83e2ab0&chksm=e8d71314dfa09a02ce4b7335186ccb644932067e12ada9c38e84db69a33c0d17737ec8313163&scene=21#wechat_redirect)》
+我们写过这一篇：《[《慈悲串经》是什么]》
 
 明天，我们会发送
 
