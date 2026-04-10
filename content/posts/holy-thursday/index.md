@@ -1,6 +1,6 @@
 ---
 title: "Holy Thursday- 祂俯身给我们新诫命，祂跟父说了我愿意"
-date: 2025-04-17T11:10:07.003Z
+date: 2026-04-02T11:10:07.003Z
 author: Ida Gao
 cover: image.jpg
 images:
