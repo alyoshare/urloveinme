@@ -1,6 +1,6 @@
 ---
 title: "Holy Wednesday 圣周三- 最大的悲剧，是投向黑暗"
-date: 2025-04-16T15:21:51.985Z
+date: 2026-04-01T15:21:51.985Z
 author: Ida Gao
 cover: image.jpg
 images:
