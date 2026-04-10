@@ -1,6 +1,6 @@
 ---
 title: "Good Friday, 圣周五，同孩子一起拜苦路"
-date: 2025-04-18T01:25:00.000Z
+date: 2026-04-03T01:25:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
