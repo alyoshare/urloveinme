@@ -1,6 +1,6 @@
 ---
 title: "Easter Vigil - 今晚，如此不同 - 复活节前夕守夜礼详解"
-date: 2025-04-19T13:51:00.000Z
+date: 2026-04-03T13:51:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
