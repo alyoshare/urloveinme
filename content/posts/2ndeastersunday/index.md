@@ -1,6 +1,6 @@
 ---
 title: "祂的伤口，是爱的记号"
-date: 2026-04-9T08:38:11.257Z
+date: 2026-04-09T08:38:11.257Z
 author: Ida Gao
 cover: image.jpg
 images:
