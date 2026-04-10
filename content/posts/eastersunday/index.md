@@ -1,6 +1,6 @@
 ---
 title: "祂为我们带来白天"
-date: 2022-04-17T00:58:14.334Z
+date: 2026-04-4T00:58:14.334Z
 author: Ida Gao
 cover: image.jpg
 images:
