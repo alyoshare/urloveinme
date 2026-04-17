@@ -1,6 +1,6 @@
 ---
 title: "Divine Mercy Sunday - 纪念祂无限慈悲的一天"
-date: 2024-04-06T13:37:00.000Z
+date: 2026-04-12T13:37:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
