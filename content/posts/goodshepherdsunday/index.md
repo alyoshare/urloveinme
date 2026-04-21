@@ -1,6 +1,6 @@
 ---
-title: "祂认识我们每一个人 - 善牧主日Sunday School"
-date: 2024-04-19T08:44:20.324Z
+title: "祂认识我们每一个人 - 复活期第五主日 善牧主日Sunday School"
+date: 2026-04-21T08:44:20.324Z
 author: Ida Gao
 cover: image.jpeg
 images:
@@ -100,7 +100,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_e702e82f1d5f4812bd7307c37e206590~mv2.jpeg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e702e82f1d5f4812bd7307c37e206590~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e702e82f1d5f4812bd7307c37e206590~mv2.jpeg)
 
   
 
@@ -268,11 +268,11 @@ categories:
 
 如果没有打印机，没有关系，剪下白纸，画上脚丫，就是一直一直小羊啦～
 
-![ree](https://static.wixstatic.com/media/55472c_14b1df5d722f40aba82aabefc5872efe~mv2.jpeg/v1/fill/w_100,h_150,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_14b1df5d722f40aba82aabefc5872efe~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_14b1df5d722f40aba82aabefc5872efe~mv2.jpeg)
 
 卫生纸卷轴，也可以做出牧羊图哦～
 
-![ree](https://static.wixstatic.com/media/55472c_6bdf859a5635476c9b031d83c059e3f6~mv2.jpeg/v1/fill/w_125,h_179,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_6bdf859a5635476c9b031d83c059e3f6~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_6bdf859a5635476c9b031d83c059e3f6~mv2.jpeg)
 
   
 
