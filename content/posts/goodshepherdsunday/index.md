@@ -1,6 +1,6 @@
 ---
 title: "祂认识我们每一个人 - 复活期第五主日 善牧主日Sunday School"
-date: 2026-04-21T08:44:20.324Z
+date: 2026-04-23T08:44:20.324Z
 author: Ida Gao
 cover: image.jpeg
 images:
