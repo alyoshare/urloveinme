@@ -1,6 +1,6 @@
 ---
 title: "祂所许诺的礼物 - 复活期第六主日Sunday School"
-date: 2026-05-8T21:26:43.928Z
+date: 2026-05-07T21:26:43.928Z
 author: Ida Gao
 cover: image.png
 images:
