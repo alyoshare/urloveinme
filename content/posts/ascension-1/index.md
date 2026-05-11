@@ -1,6 +1,6 @@
 ---
 title: "耶稣升天 主日学 - the Ascension of the Lord"
-date: 2025-05-28T17:16:54.282Z
+date: 2026-05-13T17:16:54.282Z
 author: Ida Gao
 cover: image.png
 images:
