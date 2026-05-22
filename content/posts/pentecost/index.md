@@ -1,6 +1,6 @@
 ---
 title: "生命的气息 - 圣神降临节主日学"
-date: 2022-06-04T05:30:57.879Z
+date: 2026-05-21T05:30:57.879Z
 author: Ida Gao
 cover: image.jpeg
 images:
@@ -152,7 +152,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5f3c677f035e48bfacaf7b271340bf69~mv2.jpeg/v1/fill/w_101,h_60,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5f3c677f035e48bfacaf7b271340bf69~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_5f3c677f035e48bfacaf7b271340bf69~mv2.jpeg)
 
   
 
@@ -160,7 +160,7 @@ categories:
 
 **_3-7岁的孩子们_**  
 
-**信仰讨论：**孩子们，你们会画十字祈祷吗？你们可知道十字圣号和天主圣三？(请点击这一篇：《[我们一起划「十字圣号」](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247484178&idx=1&sn=e9e9dea5ef5198d04b7bcc52fccdadbc&chksm=e8d70a87dfa08391a9d739d7af246c3c186ae483e70396f67f2f2d33b02ec6b374ace2a4228b&scene=21#wechat_redirect)》)今天这个节日，我们要特别庆祝和迎接天主圣三中的天主圣神。你们可知道圣神是谁？
+**信仰讨论：**孩子们，你们会画十字祈祷吗？你们可知道十字圣号和天主圣三？今天这个节日，我们要特别庆祝和迎接天主圣三中的天主圣神。你们可知道圣神是谁？
 
 ![ree](https://static.wixstatic.com/media/ec8b63_9d9d52eb96784ffcbd4e1717dfe2d808~mv2.jpg)
 
@@ -172,11 +172,11 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2bf6971bd7b8401582bca9ac8eb7197f~mv2.jpeg/v1/fill/w_102,h_131,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2bf6971bd7b8401582bca9ac8eb7197f~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2bf6971bd7b8401582bca9ac8eb7197f~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2d4d93f36e0d441fb9c75ef165531b56~mv2.jpeg/v1/fill/w_113,h_160,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2d4d93f36e0d441fb9c75ef165531b56~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2d4d93f36e0d441fb9c75ef165531b56~mv2.jpeg)
 
   
 
@@ -226,25 +226,25 @@ categories:
 
 可以写上圣神降临的圣经金句。
 
-![ree](https://static.wixstatic.com/media/55472c_c00cc36cb182418abdcb68288b7c5d4d~mv2.jpeg/v1/fill/w_147,h_85,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_c00cc36cb182418abdcb68288b7c5d4d~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_c00cc36cb182418abdcb68288b7c5d4d~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_cdcdbc99641649c989dad585f44dd5b0~mv2.jpeg/v1/fill/w_147,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_cdcdbc99641649c989dad585f44dd5b0~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_cdcdbc99641649c989dad585f44dd5b0~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_6b34554b2ab64ddf834610d2ab196ed1~mv2.jpeg/v1/fill/w_147,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_6b34554b2ab64ddf834610d2ab196ed1~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_6b34554b2ab64ddf834610d2ab196ed1~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_273b02f43a104ab1be52f1a72d8401b0~mv2.jpeg/v1/fill/w_138,h_89,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_273b02f43a104ab1be52f1a72d8401b0~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_273b02f43a104ab1be52f1a72d8401b0~mv2.jpeg)
 
   
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_6915135d4e0545638bba125b707789ec~mv2.jpeg/v1/fill/w_105,h_141,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_6915135d4e0545638bba125b707789ec~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_6915135d4e0545638bba125b707789ec~mv2.jpeg)
 
   
 
@@ -264,7 +264,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_faa1b69956de4ba19238903d55b51811~mv2.jpeg/v1/fill/w_125,h_125,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_faa1b69956de4ba19238903d55b51811~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_faa1b69956de4ba19238903d55b51811~mv2.jpeg)
 
   
 
@@ -308,13 +308,13 @@ And from this day, the path was set 从这一日开始，我们的道路也始�
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_9249d699c6844cb6b41f1c66b9228c9f~mv2.jpeg/v1/fill/w_92,h_123,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_9249d699c6844cb6b41f1c66b9228c9f~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_9249d699c6844cb6b41f1c66b9228c9f~mv2.jpeg)
 
   
 
 香蕉上，插上象征火焰的草莓！
 
-![ree](https://static.wixstatic.com/media/55472c_4962f3e6b2484666a49ea8fb1f668562~mv2.jpeg/v1/fill/w_53,h_80,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_4962f3e6b2484666a49ea8fb1f668562~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_4962f3e6b2484666a49ea8fb1f668562~mv2.jpeg)
 
 这是一盘的水果色拉，
 
@@ -334,19 +334,19 @@ And from this day, the path was set 从这一日开始，我们的道路也始�
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_e26d6f24cb954f969322f067c10b56cc~mv2.jpeg/v1/fill/w_122,h_163,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e26d6f24cb954f969322f067c10b56cc~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e26d6f24cb954f969322f067c10b56cc~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_e26d6f24cb954f969322f067c10b56cc~mv2.jpeg/v1/fill/w_122,h_163,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e26d6f24cb954f969322f067c10b56cc~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e26d6f24cb954f969322f067c10b56cc~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_347ffbf4e0ab45a4979a0d8d405b2300~mv2.jpeg/v1/fill/w_125,h_183,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_347ffbf4e0ab45a4979a0d8d405b2300~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_347ffbf4e0ab45a4979a0d8d405b2300~mv2.jpeg)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_347ffbf4e0ab45a4979a0d8d405b2300~mv2.jpeg/v1/fill/w_125,h_183,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_347ffbf4e0ab45a4979a0d8d405b2300~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_347ffbf4e0ab45a4979a0d8d405b2300~mv2.jpeg)
 
   
 
