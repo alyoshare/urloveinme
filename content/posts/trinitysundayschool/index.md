@@ -1,6 +1,6 @@
 ---
 title: "圣三节 - 主日学"
-date: 2022-06-11T13:07:04.841Z
+date: 2026-05-28T13:07:04.841Z
 author: Ida Gao
 cover: image.jpg
 images:
