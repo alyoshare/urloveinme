@@ -1,6 +1,6 @@
 ---
 title: "祂按照自己的肖像创造了我们——祂的肖像，是圣三的爱"
-date: 2025-06-12T05:53:00.000Z
+date: 2026-05-29T05:53:00.000Z
 author: Ida Gao
 cover: image.webp
 images:
@@ -20,7 +20,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_7a34a14d09584c7ba6dcc168557609b7~mv2.jpeg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_7a34a14d09584c7ba6dcc168557609b7~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_7a34a14d09584c7ba6dcc168557609b7~mv2.jpeg)
 
   
 
@@ -28,7 +28,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b23984d1aefd4fd592a93f7b4c9566a8~mv2.jpeg/v1/fill/w_100,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_b23984d1aefd4fd592a93f7b4c9566a8~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_b23984d1aefd4fd592a93f7b4c9566a8~mv2.jpeg)
 
   
 
@@ -42,7 +42,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_ca6929c669cb47888beb285832565c19~mv2.jpeg/v1/fill/w_101,h_131,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_ca6929c669cb47888beb285832565c19~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_ca6929c669cb47888beb285832565c19~mv2.jpeg)
 
   
 
@@ -64,7 +64,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2d0a18740da04d58b1204138d7101882~mv2.jpeg/v1/fill/w_102,h_78,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2d0a18740da04d58b1204138d7101882~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2d0a18740da04d58b1204138d7101882~mv2.jpeg)
 
   
 
@@ -78,7 +78,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5fe00aca914c432c805b24c689512c7d~mv2.jpeg/v1/fill/w_119,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5fe00aca914c432c805b24c689512c7d~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_5fe00aca914c432c805b24c689512c7d~mv2.jpeg)
 
   
 
@@ -96,7 +96,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_5404dafd38394ecfbde56f4a0061d084~mv2.jpeg/v1/fill/w_102,h_115,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5404dafd38394ecfbde56f4a0061d084~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_5404dafd38394ecfbde56f4a0061d084~mv2.jpeg)
 
   
 
@@ -110,7 +110,7 @@ categories:
 
 **本周主日学**
 
-![ree](https://static.wixstatic.com/media/55472c_93cb94c718dd4f0bb10e24526d8f2241~mv2.webp/v1/fill/w_147,h_183,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_93cb94c718dd4f0bb10e24526d8f2241~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_93cb94c718dd4f0bb10e24526d8f2241~mv2.webp)
 
   
 
