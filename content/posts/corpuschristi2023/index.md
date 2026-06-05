@@ -1,6 +1,6 @@
 ---
 title: "在圣体内，世界被祂拥抱"
-date: 2025-06-20T18:08:00.000Z
+date: 2026-06-04T18:08:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -44,7 +44,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_2b792203c1194a9e8ac9033ba235c4cd~mv2.jpeg/v1/fill/w_102,h_120,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_2b792203c1194a9e8ac9033ba235c4cd~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_2b792203c1194a9e8ac9033ba235c4cd~mv2.jpeg)
 
   
 
