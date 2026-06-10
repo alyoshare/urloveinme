@@ -1,6 +1,6 @@
 ---
 title: "蒙祂所选 - 甲年常年期11主日Sunday School"
-date: 2023-06-17T10:16:52.356Z
+date: 2026-06-10T10:16:52.356Z
 author: Ida Gao
 cover: image.webp
 images:
