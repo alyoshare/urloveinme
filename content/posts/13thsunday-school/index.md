@@ -1,6 +1,6 @@
 ---
 title: "“接纳你们，就是接纳我” - 甲年常年期13主日Sunday School"
-date: 2023-07-01T03:00:10.837Z
+date: 2026-06-25T03:00:10.837Z
 author: Ida Gao
 cover: image.webp
 images:
