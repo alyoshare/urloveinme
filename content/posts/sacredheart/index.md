@@ -1,6 +1,6 @@
 ---
 title: "祂敞开的心，成为我们触碰到天主的可能 - 耶稣圣心月 Month of the Sacred Heart of Jesus"
-date: 2025-06-01T15:06:42.722Z
+date: 2026-06-01T15:06:42.722Z
 author: Ida Gao
 cover: image.jpg
 images:
