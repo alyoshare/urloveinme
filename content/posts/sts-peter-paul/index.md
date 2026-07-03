@@ -1,6 +1,6 @@
 ---
 title: "Sts. Peter & Paul - 他俩都有过不光彩的过去，但是...他们却成为了教会的柱石"
-date: 2023-06-29T12:22:15.300Z
+date: 2026-06-29T12:22:15.300Z
 author: Ida Gao
 cover: image.jpg
 images:
