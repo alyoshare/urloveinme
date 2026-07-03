@@ -1,6 +1,6 @@
 ---
 title: "我们都是祂的小孩子 - 甲年常年期14主日Sunday School"
-date: 2023-07-08T02:01:40.140Z
+date: 2026-07-02T02:01:40.140Z
 author: Ida Gao
 cover: image.webp
 images:
