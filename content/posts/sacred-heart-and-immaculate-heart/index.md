@@ -1,6 +1,6 @@
 ---
 title: "在圣心中，走向上主 - 圣心瞻礼日小游戏"
-date: 2025-06-27T14:38:54.309Z
+date: 2026-06-12T14:38:54.309Z
 author: Ida Gao
 cover: image.jpg
 images:
