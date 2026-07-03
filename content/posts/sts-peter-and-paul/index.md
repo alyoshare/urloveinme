@@ -1,6 +1,6 @@
 ---
 title: "6月29日 - 圣伯多禄和圣保禄的瞻礼(Feast of St. Peter & St. Paul)"
-date: 2025-06-28T07:14:00.000Z
+date: 2026-06-28T07:14:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
