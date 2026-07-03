@@ -1,6 +1,6 @@
 ---
 title: "她保护小耶稣，也保护我们 - Happy Feast Day of Our Mother of Perpetual Help"
-date: 2025-06-27T15:21:59.649Z
+date: 2026-06-27T15:21:59.649Z
 author: Ida Gao
 cover: image.jpg
 images:
