@@ -1,6 +1,6 @@
 ---
 title: "那圣言的种子 - 甲年常年期第15主日 Sunday School"
-date: 2023-07-15T07:46:43.797Z
+date: 2026-07-10T07:46:43.797Z
 author: Ida Gao
 cover: image.png
 images:
@@ -29,9 +29,6 @@ categories:
 
 ![](https://static.wixstatic.com/media/55472c_3a7f3ff757d8428e886f3f87adae9ca3~mv2.jpg)
 
-#pro-gallery-1s1ce-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-1s1ce-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-1s1ce-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=1s1ce-not-scoped&items=3460\_480\_640|3409\_480\_640|3596\_480\_640&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-1s1ce-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
 随着耶稣比喻的进展，从盒子里掏出一个种子，来播种在不同的地方。
 
@@ -47,7 +44,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 如果天气太热，不能出门，就给孩子们每人一把种子。问问大家，如果你们要去播种这些种子，你们知道怎样才能让种子成长得最好吗？
 
-![ree](https://static.wixstatic.com/media/55472c_a8b8ef5ef849493d9480b8c83bfe66d4~mv2.webp/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_a8b8ef5ef849493d9480b8c83bfe66d4~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_a8b8ef5ef849493d9480b8c83bfe66d4~mv2.webp)
 
 今天的福音里，耶稣讲了一个故事。祂用农民播种的比喻，来告诉我们，如何让我们的信仰得到成长。
 
@@ -57,7 +54,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_ce5d86d38a544987b7bb1e1bc5efda46~mv2.gif/v1/fill/w_115,h_163,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_ce5d86d38a544987b7bb1e1bc5efda46~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_ce5d86d38a544987b7bb1e1bc5efda46~mv2.gif)
 
 当我们用开放和真挚的心接受天主的圣言时，我们就好像那一片良土。我们的信仰得以成长，我们也将结出果实。
 
@@ -117,7 +114,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 福音转盘：
 
-![ree](https://static.wixstatic.com/media/55472c_f62217fcff6c41b594677669e62c71aa~mv2.webp/v1/fill/w_147,h_120,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_f62217fcff6c41b594677669e62c71aa~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_f62217fcff6c41b594677669e62c71aa~mv2.webp)
 
   
 
@@ -172,10 +169,6 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 ![](https://static.wixstatic.com/media/55472c_6f21474c53864ed1bd425511f51a53b8~mv2.png)
 
 ![](https://static.wixstatic.com/media/55472c_6f21474c53864ed1bd425511f51a53b8~mv2.png)
-
-#pro-gallery-ff5r2-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-ff5r2-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-ff5r2-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=ff5r2-not-scoped&items=3561\_1580\_1262|3490\_1580\_1262|3323\_1600\_1146&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-ff5r2-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
   
 
