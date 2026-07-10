@@ -1,6 +1,6 @@
 ---
 title: "隐修，并非远离尘世-St Benedict"
-date: 2025-07-12T06:10:00.000Z
+date: 2026-07-09T06:10:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
