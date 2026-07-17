@@ -1,6 +1,6 @@
 ---
 title: "如何一眼认出老本笃？"
-date: 2025-07-12T15:59:18.583Z
+date: 2026-07-12T15:59:18.583Z
 author: Ida Gao
 cover: image.jpg
 images:
