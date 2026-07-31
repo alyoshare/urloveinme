@@ -1,6 +1,6 @@
 ---
 title: "依纳爵的生命和改变"
-date: 2025-07-31T05:39:22.956Z
+date: 2026-07-30T05:39:22.956Z
 author: Ida Gao
 cover: image.jpg
 images:
