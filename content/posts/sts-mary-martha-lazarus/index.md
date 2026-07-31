@@ -1,6 +1,6 @@
 ---
 title: "耶稣，为他落泪 - 伯达尼家的姐弟仨"
-date: 2025-07-28T16:21:24.345Z
+date: 2026-07-28T16:21:24.345Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -10,7 +10,7 @@ categories:
   - Saints
 ---
 
-几年前，当我们写《[耶稣希望我们的心，为祂腾出空间](http://mp.weixin.qq.com/s?__biz=MzIzNjU0NDI1MA==&mid=2247484236&idx=1&sn=1e5647a0370024d1a0bc8994674570a6&chksm=e8d70ad9dfa083cf3027d0939e5ff3e029a831e71d93c79b36d636633ee38912ccd943623759&scene=21#wechat_redirect)》时，7月29日还只是圣玛尔大的纪念日。从2021年开始，教会在这一天，把伯达尼(Bethany)姐弟仨，一起放入了这一天的庆祝。
+几年前，当我们写《[耶稣希望我们的心，为祂腾出空间》时，7月29日还只是圣玛尔大的纪念日。从2021年开始，教会在这一天，把伯达尼(Bethany)姐弟仨，一起放入了这一天的庆祝。
 
 <!--more-->
 
