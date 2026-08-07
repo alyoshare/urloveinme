@@ -1,6 +1,6 @@
 ---
 title: "握住祂的手 - 甲年常年期第19主日Sunday School"
-date: 2023-08-12T07:57:31.774Z
+date: 2026-08-6T07:57:31.774Z
 author: Ida Gao
 cover: image.webp
 images:
@@ -18,7 +18,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_3aa3d02369994384b6f3b0b2f5771e97~mv2.jpeg/v1/fill/w_115,h_106,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_3aa3d02369994384b6f3b0b2f5771e97~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_3aa3d02369994384b6f3b0b2f5771e97~mv2.jpeg)
 
   
 
@@ -26,7 +26,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_e37b982404984635baa77fbd266900f3~mv2.jpeg/v1/fill/w_115,h_86,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e37b982404984635baa77fbd266900f3~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_e37b982404984635baa77fbd266900f3~mv2.jpeg)
 
   
 
@@ -42,13 +42,13 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_74400cbae1f34439aed6d43b15828ecb~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_74400cbae1f34439aed6d43b15828ecb~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_74400cbae1f34439aed6d43b15828ecb~mv2.webp)
 
   
 
 耶稣没有责怪他们，而是出声安抚他们说，“放心吧！是我。不必害怕！”
 
-![ree](https://static.wixstatic.com/media/55472c_433fb845fa944615b2eee57dd38b5c8f~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_433fb845fa944615b2eee57dd38b5c8f~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_433fb845fa944615b2eee57dd38b5c8f~mv2.webp)
 
   
 
@@ -66,7 +66,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_8276ad931e974d9d9cd9e2a2fca57d65~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_8276ad931e974d9d9cd9e2a2fca57d65~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_8276ad931e974d9d9cd9e2a2fca57d65~mv2.webp)
 
   
 
@@ -76,7 +76,7 @@ categories:
 
 “耶稣立刻伸手，拉住了伯多禄。”我们的主，立即俯身，用手拉住我们。当我们沉没于夜海时，靠自己我们无法爬出时，唯有拉住耶稣，唯有拉住祂伸向我们的手。
 
-![ree](https://static.wixstatic.com/media/55472c_06be8af8a4cd4b879b47c5a032a84bbf~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_06be8af8a4cd4b879b47c5a032a84bbf~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_06be8af8a4cd4b879b47c5a032a84bbf~mv2.webp)
 
   
 
@@ -90,7 +90,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_f4e05316691a4b1ea13e0a2284f7e271~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_f4e05316691a4b1ea13e0a2284f7e271~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_f4e05316691a4b1ea13e0a2284f7e271~mv2.webp)
 
   
 
@@ -108,7 +108,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_279a6cb0890a4b32b1c2a48752654801~mv2.webp/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_279a6cb0890a4b32b1c2a48752654801~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_279a6cb0890a4b32b1c2a48752654801~mv2.webp)
 
   
 
@@ -134,7 +134,7 @@ categories:
 
 当伯多禄沉下去的时候，耶稣做了什么？
 
-![ree](https://static.wixstatic.com/media/55472c_7e639b07d97144dd9bca871b580a6617~mv2.gif/v1/fill/w_112,h_148,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_7e639b07d97144dd9bca871b580a6617~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_7e639b07d97144dd9bca871b580a6617~mv2.gif)
 
   
 
@@ -154,7 +154,7 @@ categories:
 
 你们看看耶稣如何穿过风浪？
 
-![ree](https://static.wixstatic.com/media/55472c_c10b27692bbd4a7f90e175bd5f05c088~mv2.gif/v1/fill/w_101,h_65,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_c10b27692bbd4a7f90e175bd5f05c088~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_c10b27692bbd4a7f90e175bd5f05c088~mv2.gif)
 
 伯多禄如何穿过海中生物走到耶稣那呢？
 
