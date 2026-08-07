@@ -1,6 +1,6 @@
 ---
 title: "那个考试怎么也考不过的圣人，如今成了法国的骄傲"
-date: 2025-08-04T09:06:43.825Z
+date: 2026-08-04T09:06:43.825Z
 author: Ida Gao
 cover: image.jpg
 images:
