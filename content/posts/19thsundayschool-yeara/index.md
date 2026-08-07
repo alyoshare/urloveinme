@@ -1,6 +1,6 @@
 ---
 title: "握住祂的手 - 甲年常年期第19主日Sunday School"
-date: 2026-08-6T07:57:31.774Z
+date: 2026-08-06T07:57:31.774Z
 author: Ida Gao
 cover: image.webp
 images:
