@@ -1,6 +1,6 @@
 ---
 title: "今天，我们专访了道明会的会祖"
-date: 2025-08-08T13:46:34.439Z
+date: 2026-08-08T13:46:34.439Z
 author: Ida Gao
 cover: image.png
 images:
