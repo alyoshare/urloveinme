@@ -1,6 +1,6 @@
 ---
 title: "祂的手中没有偶然-St. Edith Stein"
-date: 2025-08-09T14:51:27.049Z
+date: 2026-08-09T14:51:27.049Z
 author: Ida Gao
 cover: image.jpg
 images:
