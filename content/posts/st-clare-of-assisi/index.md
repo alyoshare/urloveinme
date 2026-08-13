@@ -1,6 +1,6 @@
 ---
 title: "她要的，唯有天主 - St Clare of Assisi"
-date: 2025-08-11T15:22:44.988Z
+date: 2026-08-11T15:22:44.988Z
 author: Ida Gao
 cover: image.jpg
 images:
