@@ -1,6 +1,6 @@
 ---
 title: "祂不舍得自己的母亲，长眠于地上 - Assumption of the Blessed Virgin Mary"
-date: 2025-08-13T16:00:00.000Z
+date: 2026-08-14T16:00:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -9,7 +9,7 @@ categories:
   - Mother Mary
 ---
 
-亲爱的孩子们，昨天我们一起，重走了玛利亚的道路([《](https://www.urloveinme.com/post/the-way-of-mary)[如果有时光机，让我们走一走玛利亚的道路](https://www.urloveinme.com/post/the-way-of-mary)[》](https://www.urloveinme.com/post/the-way-of-mary))。看到玛利亚在耶稣的一生中，如何陪伴耶稣、跟随耶稣，直到祂在十字架上交付并完成了在世的使命。
+亲爱的孩子们，昨天我们一起，重走了玛利亚的道路。看到玛利亚在耶稣的一生中，如何陪伴耶稣、跟随耶稣，直到祂在十字架上交付并完成了在世的使命。
 
 <!--more-->
 
