@@ -1,6 +1,6 @@
 ---
 title: "如果有时光机，让我们走一走玛利亚的道路 "
-date: 2025-08-12T16:00:00.000Z
+date: 2026-08-13T16:00:00.000Z
 author: Ida Gao
 cover: image.png
 images:
