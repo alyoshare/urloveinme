@@ -1,6 +1,6 @@
 ---
 title: "这是庆祝的一天-圣母升天瞻礼主日学"
-date: 2025-08-15T03:06:55.487Z
+date: 2026-08-15T03:06:55.487Z
 author: Ida Gao
 cover: image.jpg
 images:
