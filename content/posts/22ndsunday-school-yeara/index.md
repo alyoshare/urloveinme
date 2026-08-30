@@ -1,6 +1,6 @@
 ---
 title: "跟随祂，一往无前 - 甲年常年期第22主日Sunday School"
-date: 2023-09-01T11:02:10.963Z
+date: 2026-08-29T11:02:10.963Z
 author: Ida Gao
 cover: image.jpg
 images:
