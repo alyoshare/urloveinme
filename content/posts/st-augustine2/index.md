@@ -1,6 +1,6 @@
 ---
 title: "瞥见永恒 - 这对母子圣人带给我们的礼物 St Monica and St Augustine"
-date: 2025-08-28T10:36:37.417Z
+date: 2026-08-29T10:36:37.417Z
 author: Ida Gao
 cover: image.jpeg
 images:
