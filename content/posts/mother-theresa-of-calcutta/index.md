@@ -1,6 +1,6 @@
 ---
 title: "她是二十世纪最大的礼物"
-date: 2025-09-05T12:35:09.043Z
+date: 2026-09-05T12:35:09.043Z
 author: Ida Gao
 cover: image.jpg
 images:
