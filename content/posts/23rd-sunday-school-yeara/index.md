@@ -1,6 +1,6 @@
 ---
 title: "祂许诺留在我们的中间 - 甲年常年期第23主日Sunday School"
-date: 2023-09-09T08:57:43.474Z
+date: 2026-09-04T08:57:43.474Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -128,7 +128,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_109312a6f2b84404b08c47fa9a138402~mv2.webp/v1/fill/w_118,h_128,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_109312a6f2b84404b08c47fa9a138402~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_109312a6f2b84404b08c47fa9a138402~mv2.webp)
 
   
 
