@@ -1,6 +1,6 @@
 ---
 title: "70个7次- 本周主日学"
-date: 2023-09-15T15:58:44.411Z
+date: 2026-09-11T15:58:44.411Z
 author: Ida Gao
 cover: image.png
 images:
@@ -92,9 +92,7 @@ categories:
 
 ![](https://static.wixstatic.com/media/55472c_7024dc9915b54f20bbcdf49fafb47bcb~mv2.png)
 
-#pro-gallery-86u15-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-86u15-not-scoped .gallery-item-hover::before { background: transparent !important}
 
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-86u15-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|imageMargin:5|isVertical:false|gridStyle:0|galleryLayout:1|numberOfImagesPerRow:0|gallerySizePx:300|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=86u15-not-scoped&items=3292\_1920\_1080|3286\_1920\_1080|3535\_1920\_1080|3429\_1920\_1080|3355\_1920\_1080|3661\_1920\_1080&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-86u15-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
   
 
