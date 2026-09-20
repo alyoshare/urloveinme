@@ -16,19 +16,14 @@ categories:
 
 ![](https://static.wixstatic.com/media/55472c_ff849a4d68a64caab8def22d781b86ea~mv2.webp)
 
-![](https://static.wixstatic.com/media/55472c_ff849a4d68a64caab8def22d781b86ea~mv2.webp)
 
 ![](https://static.wixstatic.com/media/55472c_c90313eb164048a5bbeea4823e10fd6f~mv2.jpg)
 
-![](https://static.wixstatic.com/media/55472c_c90313eb164048a5bbeea4823e10fd6f~mv2.jpg)
 
 ![](https://static.wixstatic.com/media/55472c_1aaff414350c4c76b5e09ec6a2f6a8d7~mv2.webp)
 
-![](https://static.wixstatic.com/media/55472c_1aaff414350c4c76b5e09ec6a2f6a8d7~mv2.webp)
 
-#pro-gallery-5vamt-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-5vamt-not-scoped .gallery-item-hover::before { background: transparent !important}
 
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-5vamt-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=5vamt-not-scoped&items=3783\_1822\_1292|3502\_938\_1500|3669\_800\_1000&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-5vamt-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
 我甚至想着，将来去到天上那一日，我们头上的halo(圣人光环)，是不是更圆更亮，哈哈……接着我就想，如何可以去到天上，如何可以戴上这如月般皎洁又明亮的halo？那些过去和现代的圣人们，他们的一生，都在承行天主的旨意。多少次，他们要经历自己意志和天主旨意之间的搏斗，在自私和忘我之间，不断地去选择天主的心意。看起来那么容易的一句话，做起来，却是无数次的舍弃。(点击[**这里**](https://www.urloveinme.com/首頁/categories/遇见圣人)，看圣人故事集)
 
@@ -105,11 +100,6 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
   
 
 **本周主日学**
-
-  
-
-![ree](https://static.wixstatic.com/media/55472c_5cfa544a380e4b6ab156a249556e192a~mv2.webp/v1/fill/w_90,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_5cfa544a380e4b6ab156a249556e192a~mv2.webp)
-
   
 
 热场游戏“口是心非”：大家围成一个圈，告诉孩子们，当老师说一件事，是对的时候，你们就要一边说是啊是啊，一边摇头；错的时候，反而要一边说不是不是，一边点头。
