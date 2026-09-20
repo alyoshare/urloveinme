@@ -1,6 +1,6 @@
 ---
 title: "为主做工的分分秒秒 - 甲年常年期25主日Sunday School"
-date: 2023-09-23T02:52:01.720Z
+date: 2026-09-19T02:52:01.720Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -153,7 +153,7 @@ categories:
 
 **请从左边箭头开始，找到家主。**
 
-![ree](https://static.wixstatic.com/media/55472c_351391fc8b9245d58394ec91af3d06a6~mv2.gif/v1/fill/w_114,h_113,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_351391fc8b9245d58394ec91af3d06a6~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_351391fc8b9245d58394ec91af3d06a6~mv2.gif)
 
   
 
