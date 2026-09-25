@@ -1,6 +1,6 @@
 ---
 title: "口是心不非 - 甲年常年期第26主日Sunday School"
-date: 2023-09-30T04:30:08.814Z
+date: 2026-09-25T04:30:08.814Z
 author: Ida Gao
 cover: image.jpeg
 images:
@@ -77,7 +77,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_dabe544b496544e6a23859db3f3c45e2~mv2.webp/v1/fill/w_144,h_180,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_dabe544b496544e6a23859db3f3c45e2~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_dabe544b496544e6a23859db3f3c45e2~mv2.webp)
 
   
 
@@ -204,11 +204,7 @@ categories:
 
 ![](https://static.wixstatic.com/media/55472c_f50440e053f1462a86cbc03ed17e900f~mv2.png)
 
-#pro-gallery-f4att-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-f4att-not-scoped .gallery-item-hover::before { background: transparent !important}
 
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-f4att-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|gridStyle:1|imageMargin:5|galleryLayout:2|isVertical:true|numberOfImagesPerRow:3|cubeRatio:1|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=f4att-not-scoped&items=3457\_2880\_1582|3337\_2880\_1498|3503\_2828\_1498|3502\_2880\_1498|3394\_2828\_1498|3426\_2828\_1498|3659\_2828\_1498|3316\_2828\_1498|3409\_2828\_1498&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-f4att-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
-
-  
 
 **讲述福音：**根据下列图片，重述今天的福音故事吧～
 
@@ -238,7 +234,6 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-如我们昨天两篇文章，
 
 [《三位特别的朋友》](https://www.urloveinme.com/post/archangels)
 
@@ -250,15 +245,15 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_f6b901afd7df4fa98f915052091c8be7~mv2.webp/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_f6b901afd7df4fa98f915052091c8be7~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_f6b901afd7df4fa98f915052091c8be7~mv2.webp)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_30b96777a24341479620df72fa0e8e11~mv2.webp/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_30b96777a24341479620df72fa0e8e11~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_30b96777a24341479620df72fa0e8e11~mv2.webp)
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_bf87ca2db75b4daf9df727ae42f95d64~mv2.webp/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_bf87ca2db75b4daf9df727ae42f95d64~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_bf87ca2db75b4daf9df727ae42f95d64~mv2.webp)
 
   
 
@@ -288,7 +283,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 打印下图，剪下各个部分。
 
-![ree](https://static.wixstatic.com/media/55472c_a21ffd59f4a842cea7cd4413dca842ee~mv2.gif/v1/fill/w_105,h_148,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_a21ffd59f4a842cea7cd4413dca842ee~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_a21ffd59f4a842cea7cd4413dca842ee~mv2.gif)
 
 按照下图所示，折叠并涂色。
 
@@ -304,7 +299,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_e1fef275aeda4f31bcbede9ea0d25e54~mv2.webp/v1/fill/w_61,h_80,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_e1fef275aeda4f31bcbede9ea0d25e54~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_e1fef275aeda4f31bcbede9ea0d25e54~mv2.webp)
 
   
 
