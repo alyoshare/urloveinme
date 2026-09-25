@@ -1,6 +1,6 @@
 ---
 title: "口是心不非 - 甲年常年期第26主日Sunday School"
-date: 2026-09-25T04:30:08.814Z
+date: 2026-09-24T04:30:08.814Z
 author: Ida Gao
 cover: image.jpeg
 images:
