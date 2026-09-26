@@ -1,6 +1,6 @@
 ---
 title: "他离天主那么近 - Saint Padre Pio"
-date: 2025-09-23T07:07:09.019Z
+date: 2026-09-23T07:07:09.019Z
 author: Ida Gao
 cover: image.jpg
 images:
