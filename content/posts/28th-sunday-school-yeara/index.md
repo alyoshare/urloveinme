@@ -1,6 +1,6 @@
 ---
 title: "祂邀请了每一个人 - 甲年常年期第28主日Sunday School"
-date: 2026-10-1T08:01:12.672Z
+date: 2026-10-01T08:01:12.672Z
 author: Ida Gao
 cover: image.jpg
 images:
