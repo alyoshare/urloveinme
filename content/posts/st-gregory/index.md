@@ -1,6 +1,6 @@
 ---
 title: "卖尽家产之后，他从首富变成了首脑-St Gregory"
-date: 2025-09-02T13:14:46.234Z
+date: 2026-09-02T13:14:46.234Z
 author: Ida Gao
 cover: image.jpg
 images:
