@@ -1,6 +1,6 @@
 ---
 title: "三位特别的朋友"
-date: 2025-09-28T13:10:00.000Z
+date: 2026-09-29T13:10:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
