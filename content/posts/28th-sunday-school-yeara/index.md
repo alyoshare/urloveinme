@@ -1,6 +1,6 @@
 ---
 title: "祂邀请了每一个人 - 甲年常年期第28主日Sunday School"
-date: 2023-10-14T08:01:12.672Z
+date: 2026-10-1T08:01:12.672Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -67,7 +67,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_3af1bdb9745543278e509af2dc70b657~mv2.webp/v1/fill/w_90,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_3af1bdb9745543278e509af2dc70b657~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_3af1bdb9745543278e509af2dc70b657~mv2.webp)
 
 **热场游戏“我们一起做派对”：**老师们可以提前准备桌布、盘子、杯子和一些小零食。跟孩子们说，今天，我们要一起准备派对。请大家想一想，做好一场party，要做哪些准备工作？需要有人准备食物、饮料，需要有人准备桌子、盘子，需要有人准备椅子座位，需要有人准备音乐、游戏，最后还需要有人来收拾、打扫。大家商量完之后，老师可以分工，请孩子们开始分头准备起来。
 
@@ -91,7 +91,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b0b24ce055e14245b42c7c3bd5c7a69c~mv2.webp/v1/fill/w_125,h_107,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_b0b24ce055e14245b42c7c3bd5c7a69c~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_b0b24ce055e14245b42c7c3bd5c7a69c~mv2.webp)
 
 最后为什么有一个人被请出去了？对我们来说，这个故事告诉我们什么？
 
