@@ -1,6 +1,6 @@
 ---
 title: "他跟太阳称兄道弟 - St Francis of Assisi"
-date: 2025-10-04T01:58:14.621Z
+date: 2026-10-04T01:58:14.621Z
 author: Ida Gao
 cover: image.jpg
 images:
