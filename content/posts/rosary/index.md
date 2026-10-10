@@ -1,6 +1,6 @@
 ---
 title: "玫瑰经，让我们把整个世界交到耶稣的心里 - how to pray the Rosary"
-date: 2025-10-07T02:38:10.427Z
+date: 2026-10-07T02:38:10.427Z
 author: Ida Gao
 cover: image.jpg
 images:
