@@ -1,6 +1,6 @@
 ---
 title: "唯有祂，是我们的主- 甲年常年期第27主日Sunday School"
-date: 2023-10-07T07:28:05.058Z
+date: 2026-10-03T07:28:05.058Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -82,7 +82,7 @@ categories:
 
 #####   
 
-![ree](https://static.wixstatic.com/media/55472c_8d15076fdcee45c899f3dcc41f9b882b~mv2.webp/v1/fill/w_90,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_8d15076fdcee45c899f3dcc41f9b882b~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_8d15076fdcee45c899f3dcc41f9b882b~mv2.webp)
 
 **热场游戏“对和错”：**老师可以准备几个很大的硬纸板做成的箭头，再准备一些纸条，上边列出一堆我们在社会上、学校里会遇到的情况。老师逐一读出来，请孩子们用指向右边的手臂表示对，指向左边的手臂表示错，双臂往上表示不一定。之后老师可以把纸条贴在硬纸板的肩头下方，表示对还是错。
 
@@ -108,7 +108,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_3b848a48592b487e81f42d25d6bd97f9~mv2.gif/v1/fill/w_121,h_148,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_3b848a48592b487e81f42d25d6bd97f9~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_3b848a48592b487e81f42d25d6bd97f9~mv2.gif/)
 
   
 
