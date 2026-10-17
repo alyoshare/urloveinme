@@ -1,6 +1,6 @@
 ---
 title: "我们刻着的是谁的肖像？- 甲年常年期第29主日Sunday School"
-date: 2023-10-21T01:29:28.412Z
+date: 2026-10-16T01:29:28.412Z
 author: Ida Gao
 cover: image.jpg
 images:
