@@ -1,0 +1,40 @@
+{{- /*
+  Resolves a post's cover image to a usable src and returns it.
+
+  Priority:
+    1. .Params.image  (Pehtheme convention; absolute URLs pass through)
+    2. .Params.cover  (convention used by this site)
+    3. The first image resource found in the page bundle.
+      Otherwise it returns nil.
+*/ -}}
+{{- $img := "" -}}
+{{- if isset .Params "image" -}}
+  {{- $img = .Params.image -}}
+{{- else if isset .Params "cover" -}}
+  {{- $img = .Params.cover -}}
+{{- end -}}
+
+{{- $src := "" -}}
+{{- if $img -}}
+  {{- if (strings.HasPrefix $img "http") -}}
+    {{- $src = $img -}}
+  {{- else -}}
+    {{- with .Resources.GetMatch $img -}}
+      {{- $src = .RelPermalink -}}
+    {{- else -}}
+      {{- with .Resources.ByType "image" -}}
+        {{- with index . 0 -}}
+          {{- $src = .RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- with .Resources.ByType "image" -}}
+    {{- with index . 0 -}}
+      {{- $src = .RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $src -}}
