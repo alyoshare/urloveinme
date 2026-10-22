@@ -29,11 +29,10 @@
 
 <!-- / End feature post  -->
 
-<!-- Category Post -->
+<!-- Category Posts -->
 
+{{- range $cat := default (slice "主日学") site.Params.featuredCategories }}
 <section class="mb-16">
-
-    {{ $cat := default "主日学" site.Params.featuredCategory }}
 
     <div class="flex items-center mb-6">
 
@@ -44,7 +43,7 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-    {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+    {{ range where $.Site.RegularPages "Params.categories" "intersect" (slice $cat) | first 3 }}
 
       {{- partial "content/card" . -}}
 
@@ -52,9 +51,10 @@
 
     </div>
 
-  </section>
+</section>
+{{- end }}
 
-<!-- / End category post -->
+<!-- / End category posts -->
 <hr class="my-8">
 <!-- Start recent post  -->
 
