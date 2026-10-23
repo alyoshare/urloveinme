@@ -1,6 +1,6 @@
 ---
 title: "爱，在一切之上 - 甲年常年期第30主日Sunday School"
-date: 2023-10-28T02:21:36.282Z
+date: 2026-10-23T02:21:36.282Z
 author: Ida Gao
 cover: image.jpg
 images:
