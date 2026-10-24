@@ -6,7 +6,8 @@ cover: image.jpg
 images:
   - image.jpg
 categories:
-  - Uncategorized
+  - 主日学
+  - "Sunday School"
 ---
 
 亲爱的孩子们，你们可曾被邀请去出席婚宴？我猜你们不少人，还当过花童和戒童对吗？婚宴的气氛，一定是热热闹闹、喜气洋洋的。
