@@ -1,6 +1,6 @@
 ---
-title: "他是跟我们一样的少年 - Blessed Carlo Acutis"
-date: 2024-10-12T08:20:54.329Z
+title: "他是跟我们一样的少年 - St Carlo Acutis"
+date: 2026-10-12T08:20:54.329Z
 author: Ida Gao
 cover: image.jpg
 images:
