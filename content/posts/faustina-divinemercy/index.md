@@ -1,6 +1,6 @@
 ---
 title: "圣女傅天娜和《慈悲串经》"
-date: 2025-10-05T14:36:48.461Z
+date: 2026-10-05T14:36:48.461Z
 author: Ida Gao
 cover: image.png
 images:
