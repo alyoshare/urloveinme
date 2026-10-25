@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<div class="py-14">
+
+	{{- with $src := partial "cover.html" . }}
+	<div class="mb-14">
+
+		<img class="rounded-3xl" src="{{ $src }}" alt="{{ .Title }}">
+
+	</div>
+	{{- end }}
+
+
+	<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+		<article class="md:col-span-2 prose lg:prose-lg">
+
+		<header class="not-prose mb-14">
+
+			<h1 class="text-4xl font-bold">{{ .Title }}</h1>
+
+			<ul class="flex items-center space-x-4 my-6">
+
+				{{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" -}}
+				<li class="my-2">
+					<time datetime="{{ $dateMachine }}">{{ .Date | time.Format "2006-01-02" }}</time>
+				</li>
+
+				<li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+					阅读 <span id="busuanzi_page_pv">…</span> 次
+				</li>
+
+			</ul>
+
+		</header>
+
+		<div id="content" class="prose lg:prose-lg">
+
+			{{- .Content -}}
+
+		</div>
+
+		</article>
+
+		<aside class="md:col-span-1">
+
+			{{- partial "content/aside.html" . -}}
+
+		</aside>
+
+	</div>
+
+</div>
+
+{{ end }}
