@@ -22,6 +22,20 @@ summaryLength = 20 # <- 20 words are approximately 160 characters
   # Categories featured on the homepage (one block each, before 最新文章)
   featuredCategories = ["遇见圣人", "主日学"]
 
+  [params.translateLanguages]
+    en = "English"
+    vi = "Tiếng Việt"
+    tl = "Filipino"
+    ja = "日本語"
+    ko = "한국어"
+    id = "Bahasa Indonesia"
+    th = "ไทย"
+    es = "Español"
+    fr = "Français"
+    de = "Deutsch"
+    ru = "Русский"
+    zh-TW = "中文（繁體）"
+
 [params.author]
   name = "Ida Gao"
   bio = "一个为所有孩子的中文信仰频道"
