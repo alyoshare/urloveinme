@@ -1,6 +1,6 @@
 ---
 title: "Holy Wins!! - 诸圣节怎么过？"
-date: 2024-10-31T11:36:00.000Z
+date: 2026-10-30T11:36:00.000Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -94,9 +94,6 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 ![](https://static.wixstatic.com/media/55472c_d65dcbf4b1974635b51237e6da5d9934~mv2.jpg)
 
-#pro-gallery-66dkf-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-66dkf-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-66dkf-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|hasThumbnails:false|imageMargin:5|galleryLayout:6|isVertical:false|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=66dkf-not-scoped&items=3432\_1284\_1215&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-66dkf-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
 
   
 
@@ -130,7 +127,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 9.  
 
-![ree](https://static.wixstatic.com/media/55472c_285344e30b0b434a83652a287828cf75~mv2.jpeg/v1/fill/w_147,h_178,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_285344e30b0b434a83652a287828cf75~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_285344e30b0b434a83652a287828cf75~mv2.jpeg)
 
   
 
@@ -412,11 +409,7 @@ try { window.requestAnimationFrame(function() { var ele = document.getElementByI
 
 ![](https://static.wixstatic.com/media/55472c_c2b5ace66bc042cbb0eea199b776fedf~mv2.jpg)
 
-![](https://static.wixstatic.com/media/55472c_c2b5ace66bc042cbb0eea199b776fedf~mv2.jpg)
-
-#pro-gallery-a6nu3-not-scoped .gallery-item-container { opacity: 0 } #pro-gallery-a6nu3-not-scoped .gallery-item-hover::before { background: transparent !important}
-
-try { window.requestAnimationFrame(function() { var ele = document.getElementById('pro-gallery-a6nu3-not-scoped'); var pgMeasures = ele.getBoundingClientRect(); var options = (() => "gallerySizeType:px|enableInfiniteScroll:true|titlePlacement:SHOW\_ON\_HOVER|hasThumbnails:false|imageMargin:5|galleryLayout:6|isVertical:false|cubeType:fill|galleryThumbnailsAlignment:none")(ele); var width = pgMeasures.width; var height = pgMeasures.height; var isIOS = /iPad|iPhone|iPod/.test(navigator?.userAgent); if(isIOS) { width = width; width = width; height = height; height = height; } else { width = width; width = width; height = height; height = height; } pgMeasures = { top: pgMeasures.top, width, height }; var isVertical = options.includes('layoutParams\_structure\_scrollDirection:"VERTICAL"'); var layoutFixerUrl = '/\_serverless/pro-gallery-css-v4-server/layoutCss?ver=2&id=a6nu3-not-scoped&items=3751\_1284\_1317&container=' + pgMeasures.top + '\_' + pgMeasures.width + '\_' + pgMeasures.height + '\_' + window.innerHeight + '&options=' + options; document.getElementById('layout-fixer-style-a6nu3-not-scoped').setAttribute('href', encodeURI(layoutFixerUrl)); }); } catch (e) { console.warn('Cannot set layoutFixer css', e); }
+![](https://static.wixstatic.com/media/55472c_c2b5ace66bc042cbb0eea199b776fedf~mv2.jpg
 
   
 
