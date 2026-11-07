@@ -17,7 +17,7 @@ images:
   - image11.jpg
   - image12.jpg
 categories:
-  - 儿童主日学
+  - 主日学
   - "Sunday School"
 tags:
   - "Sunday school"
