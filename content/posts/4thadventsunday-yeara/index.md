@@ -8,7 +8,7 @@ images:
 categories:
   - 主日学
   - "Sunday School"
-  - 圣诞专题
+  - 圣诞系列
   - "Christmas"
 ---
 
