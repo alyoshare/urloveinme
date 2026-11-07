@@ -17,13 +17,24 @@
 
     </div>
 
-    <div class="self-center flex flex-col items-start w-full md:w-2/5">
+    <div class="self-center flex items-center space-x-4 w-full md:w-2/5">
 
       {{- $avatar := site.Params.Author.avatar }}
 
-      <img class="w-16 h-16 rounded-full object-cover" src="{{ $avatar }}" alt="{{ site.Params.Author.name }}">
+      <img class="w-12 h-12 rounded-full object-cover" src="{{ $avatar }}" alt="{{ site.Params.Author.name }}">
 
-      <p class="mt-2 font-semibold">{{ site.Params.Author.name }}</p>
+      <div class="flex flex-col space-y-1">
+
+        <p class="font-semibold leading-tight">{{ site.Params.Author.name }}</p>
+
+        {{- if .Site.Params.contact }}
+        <p class="text-sm text-zinc-500 leading-tight">
+          {{- $email := replace .Site.Params.contact "联系方式：" "" -}}
+          联系方式：<a href="mailto:{{ $email }}" class="hover:underline">{{ $email }}</a>
+        </p>
+        {{- end }}
+
+      </div>
 
     </div>
 

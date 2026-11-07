@@ -21,6 +21,8 @@ summaryLength = 20 # <- 20 words are approximately 160 characters
   mainSections = "posts"
   # Categories featured on the homepage (one block each, before 最新文章)
   featuredCategories = ["遇见圣人", "主日学"]
+  # Contact info shown in post footer (leave empty to hide)
+  contact = "联系方式：idagao@icloud.com"
 
   [params.translateLanguages]
     en = "English"
