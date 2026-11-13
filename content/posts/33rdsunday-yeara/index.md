@@ -1,6 +1,6 @@
 ---
 title: "在给予中，我们得到更多 - 甲年常年期第33主日Sunday School"
-date: 2023-11-18T03:25:19.382Z
+date: 2026-11-13T03:25:19.382Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 ---
 
-亲爱的孩子们，主日平安。上周我们没有更新主日学，因为那个周末我们做了一个特别的活动：从早到晚，大家都努力像圣母玛利亚一样去生活，去建设一个玛利亚的城市，让耶稣可以生活在我们中间。结果怎么样呢？哇，老老少少，从蹒跚学步的孩子，到走路蹒跚的老人，从刚刚步入社会的年轻人到事业有成的平信徒企业家，还在探索圣召的青年到不同阶段的家庭和神父、修女们，甚至还有一些非基督徒，每一个人都非常喜乐、乐不思蜀。虽然，真的，很累，所以，我们的主日学缺席了一周，还请大家原谅——因为我去天堂度了一个假。
+亲爱的孩子们，主日平安。上周我们做了一个特别的活动：从早到晚，大家都努力像圣母玛利亚一样去生活，去建设一个玛利亚的城市，让耶稣可以生活在我们中间。结果怎么样呢？哇，老老少少，从蹒跚学步的孩子，到走路蹒跚的老人，从刚刚步入社会的年轻人到事业有成的平信徒企业家，还在探索圣召的青年到不同阶段的家庭和神父、修女们，甚至还有一些非基督徒，每一个人都非常喜乐、乐不思蜀。虽然，真的，很累，所以，我们的主日学缺席了一周，还请大家原谅——因为我去天堂度了一个假。
 
 <!--more-->
 
@@ -23,7 +23,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_629c228174cc44998b6cbd865168ed74~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_629c228174cc44998b6cbd865168ed74~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_629c228174cc44998b6cbd865168ed74~mv2.webp)
 
 耶稣说一位家主要远行，出发前，按照仆人的才能，分别把五个、两个和一个塔冷通托付给他们照料。其中两位仆人接受使命之后，勤勉工作，把他们所接管的财富翻了一番。
 
@@ -33,7 +33,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_30d389101b8a4c24a67c4c294fb746c5~mv2.webp/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_30d389101b8a4c24a67c4c294fb746c5~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_30d389101b8a4c24a67c4c294fb746c5~mv2.webp)
 
   
 
@@ -51,7 +51,7 @@ categories:
 
 这个傻瓜，主人怎么会忘记呢？我们所领受的恩赐，这信仰的真理，并不来自我们自己，我们不能据为己有，不能用我们的人性遮盖信仰的光芒。在这个时代，有那么多嘈杂的声音，我们一厢情愿地以为这个世界、这个地球、这一切，都是我们人类的。我们也被误导，觉得物质对生命来说最重要，“钱是王道”。所有这些言论和思想，都是在用铲子，把信仰和给予我们的信仰的天主“埋”起来。
 
-![ree](https://static.wixstatic.com/media/55472c_c9c463685ffe4c59a33996ae5f99af92~mv2.webp/v1/fill/w_123,h_168,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_c9c463685ffe4c59a33996ae5f99af92~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_c9c463685ffe4c59a33996ae5f99af92~mv2.webp)
 
   
 
@@ -73,7 +73,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_126826738a2048f3b0dd7a389db8818d~mv2.webp/v1/fill/w_90,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_126826738a2048f3b0dd7a389db8818d~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_126826738a2048f3b0dd7a389db8818d~mv2.webp)
 
 **热场游戏“翻一番”：**让孩子们分成几个小组，给他们每组一个任务单，他们需要把任务翻倍。比如说，给他们一个数字4，他们需要找到8样东西；3个笑脸，那么他们就需要找到6个人一起微笑，或者需要一面镜子；一个声音，他们需要加倍或者找到一个回音。等等。
 
@@ -95,7 +95,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_d91cbab1cd8b4670a3efd9f3fe92047d~mv2.webp/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_d91cbab1cd8b4670a3efd9f3fe92047d~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_d91cbab1cd8b4670a3efd9f3fe92047d~mv2.webp)
 
 在今天的福音里，耶稣说了一个故事。祂说的Talent，是当时的一种货币。你们知道人们如何使用这些货币吗？
 
@@ -113,7 +113,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_896242b1774c4566b305b0715aadb652~mv2.gif/v1/fill/w_106,h_143,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_896242b1774c4566b305b0715aadb652~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_896242b1774c4566b305b0715aadb652~mv2.gif)
 
   
 
@@ -127,7 +127,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_d585d22fa51347549393b7b2c729c1c5~mv2.gif/v1/fill/w_147,h_206,al_c,usm_0.66_1.00_0.01,blur_2,pstr/55472c_d585d22fa51347549393b7b2c729c1c5~mv2.gif)
+![ree](https://static.wixstatic.com/media/55472c_d585d22fa51347549393b7b2c729c1c5~mv2.gif)
 
   
 
