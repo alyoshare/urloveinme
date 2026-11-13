@@ -1,6 +1,6 @@
 ---
 title: "在给予中，我们得到更多 - 甲年常年期第33主日Sunday School"
-date: 2026-11-13T03:25:19.382Z
+date: 2026-11-12T03:25:19.382Z
 author: Ida Gao
 cover: image.jpg
 images:
