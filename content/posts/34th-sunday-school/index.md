@@ -1,6 +1,6 @@
 ---
 title: "祂在近人身上等我 - 常年期第34主日 耶稣普世君王节 Sunday School"
-date: 2023-11-25T02:12:38.968Z
+date: 2026-11-20T02:12:38.968Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -22,7 +22,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_473e5c8a9d7a44b7a6d1f7473f1970ff~mv2.webp/v1/fill/w_138,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_473e5c8a9d7a44b7a6d1f7473f1970ff~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_473e5c8a9d7a44b7a6d1f7473f1970ff~mv2.webp)
 
   
 
@@ -79,7 +79,7 @@ categories:
 
   
 
-![ree](https://static.wixstatic.com/media/55472c_b3e139117fb64686991402d80756a1bf~mv2.webp/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_b3e139117fb64686991402d80756a1bf~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_b3e139117fb64686991402d80756a1bf~mv2.webp)
 
   
 
@@ -89,7 +89,7 @@ categories:
 
 **迷宫：**今天这个迷宫有点不同，从Start开始走，我们还需要走过每一个爱耶稣的方式才能抵达终点。一起看看，爱耶稣的方式有哪些呢？
 
-![ree](https://static.wixstatic.com/media/55472c_d66caf1744884c86bc443c25cc13e9f4~mv2.webp/v1/fill/w_147,h_170,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_d66caf1744884c86bc443c25cc13e9f4~mv2.webp)
+![ree](https://static.wixstatic.com/media/55472c_d66caf1744884c86bc443c25cc13e9f4~mv2.webp)
 
 **考考你的眼力：**
 
