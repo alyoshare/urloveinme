@@ -1,6 +1,6 @@
 ---
 title: "我们所怀的希望，是祂的爱 - 乙年将临期第一主日Sunday School"
-date: 2023-12-02T09:37:05.968Z
+date: 2026-11-27T09:37:05.968Z
 author: Ida Gao
 cover: image.jpg
 images:
@@ -60,7 +60,7 @@ categories:
 
 **今天的福音里，耶稣邀请我们，当心、警醒，“因为你们不知道那日期什么时候来到”。通过这个家主离家外出，把家里交代给仆人打理照顾的比喻，耶稣提醒我们要用怎样的态度追随祂：选择祂所选择的，爱祂所爱的，把我们的生命交给祂。警醒，是要我们在祂的注视和祂爱的包围之中，度过生命中的每一秒，不被眼前的困难所击败，不因日常的人生而气馁。**
 
-![ree](https://static.wixstatic.com/media/55472c_dde20d259e644f2e8795265fa0a8c724~mv2.jpeg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_dde20d259e644f2e8795265fa0a8c724~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_dde20d259e644f2e8795265fa0a8c724~mv2.jpeg)
 
   
 
@@ -84,7 +84,7 @@ categories:
 
 老师们也可以用这个日历，在空白格子里写入每一日的计划，然后把数字贴在外边。每一天早上，孩子们可以撕开/掀开日历，看看这一天，我们可以为耶稣准备什么
 
-![ree](https://static.wixstatic.com/media/55472c_4eb0c2beb6cc45f5a81048f1ace9df3b~mv2.jpeg/v1/fill/w_147,h_202,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/55472c_4eb0c2beb6cc45f5a81048f1ace9df3b~mv2.jpeg)
+![ree](https://static.wixstatic.com/media/55472c_4eb0c2beb6cc45f5a81048f1ace9df3b~mv2.jpeg)
 
   
 
